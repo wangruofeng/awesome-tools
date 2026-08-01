@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Wang Ruofeng's open-source online tools collection.">
+  <title>Awesome Tools</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>@media (max-width: 620px) { .header-actions select { width: 92px; padding-left: 8px; padding-right: 5px; color: var(--text); font-size: 12px; } }</style>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Awesome Tools home"><span class="brand-mark" aria-hidden="true">⠿</span><span>Awesome Tools</span></a>
+    <label class="search-wrap"><span class="sr-only" id="searchLabel">搜索工具</span><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off"><kbd>/</kbd></label>
+    <div class="header-actions">
+      <label class="sr-only" for="language">语言</label><select id="language" aria-label="语言"></select>
+      <button class="icon-button" id="theme" type="button" aria-label="切换深浅色">◐</button>
+      <a class="icon-button" href="https://github.com/wangruofeng/awesome-tools" aria-label="GitHub" title="GitHub">⌂</a>
+    </div>
+  </header>
+  <nav class="tabs" id="tabs" aria-label="工具分类"></nav>
+  <main class="content">
+    <section class="directory" aria-labelledby="pageTitle">
+      <div class="section-heading"><h1 id="pageTitle"></h1><p id="count" aria-live="polite"></p></div>
+      <div class="filters">
+        <label><span class="sr-only" id="categoryLabel">类别</span><select id="category"></select></label>
+        <button id="favorites" class="filter-button" type="button" aria-pressed="false">☆ <span></span></button>
+      </div>
+      <div id="results"></div>
+    </section>
+  </main>
+  <template id="toolTemplate">
+    <article class="tool-card"><div class="tool-main"><span class="tool-icon"></span><div><h3></h3><p></p></div><button class="favorite" type="button" aria-label="收藏"></button></div><div class="tool-links"><a class="source" target="_blank" rel="noopener"></a><a class="demo" target="_blank" rel="noopener"></a></div></article>
+  </template>
+  <script src="app.js" defer></script>
+</body>
+</html>

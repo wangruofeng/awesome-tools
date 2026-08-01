@@ -1,0 +1,8 @@
+{
+  "name": "awesome-tools",
+  "private": true,
+  "scripts": {
+    "generate:readme": "node scripts/generate-readmes.mjs",
+    "check": "node --check app.js && node --check scripts/generate-readmes.mjs && node scripts/generate-readmes.mjs && git diff --exit-code -- README.md README.zh-TW.md README.en.md"
+  }
+}

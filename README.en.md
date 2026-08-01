@@ -1,0 +1,58 @@
+# Awesome Tools
+
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
+
+A categorized collection of open-source online tools I build, with source code and live demos.
+
+## Everyday
+
+| Project | Description | Source | Live demo |
+| --- | --- | --- | --- |
+| ▦ QR Tool | Generate, scan, and export QR codes | [Source](https://github.com/wangruofeng/qr-tool) | [Live demo](https://blog.wangruofeng007.com/qr-tool/) |
+| # File Hash Checker | Calculate and verify file hashes locally | [Source](https://github.com/wangruofeng/file-hash) | [Live demo](https://blog.wangruofeng007.com/file-hash/) |
+| ⌘ Unicode Lookup | Look up Unicode characters and convert encodings | [Source](https://github.com/wangruofeng/unicode-lookup) | [Live demo](https://blog.wangruofeng007.com/unicode-lookup/) |
+| ▤ ID Card Parser | Parse and validate Chinese ID card numbers locally | [Source](https://github.com/wangruofeng/id-card) | [Live demo](https://blog.wangruofeng007.com/id-card/) |
+| ¥ Tax Calculator | Calculate Chinese individual income tax and annual bonuses | [Source](https://github.com/wangruofeng/tax-calc) | [Live demo](https://blog.wangruofeng007.com/tax-calc/) |
+| ⌂ Mortgage Calculator | Calculate mortgage repayments and early repayments | [Source](https://github.com/wangruofeng/mortgage-calc) | [Live demo](https://blog.wangruofeng007.com/mortgage-calc/) |
+| ￥ RMB Words | Convert amounts between numbers and uppercase RMB words | [Source](https://github.com/wangruofeng/rmb-words) | [Live demo](https://blog.wangruofeng007.com/rmb-words/) |
+| ☺ Emoji Picker | Search, inspect, and copy emoji in multiple languages | [Source](https://github.com/wangruofeng/emoji-picker) | [Live demo](https://blog.wangruofeng007.com/emoji-picker/) |
+| ◎ Country Info | Look up country and region details in multiple languages | [Source](https://github.com/wangruofeng/country-info) | [Live demo](https://blog.wangruofeng007.com/country-info/) |
+
+## Developer
+
+| Project | Description | Source | Live demo |
+| --- | --- | --- | --- |
+| ⌁ Port List | Look up and browse common network ports | [Source](https://github.com/wangruofeng/port-list) | [Live demo](https://blog.wangruofeng007.com/port-list/) |
+| ⌗ CSS Unit Converter | Convert CSS units in real time | [Source](https://github.com/wangruofeng/css-unit-converter) | [Live demo](https://blog.wangruofeng007.com/css-unit-converter/) |
+| ⌘ .gitignore Generator | Generate .gitignore files from technology-stack templates | [Source](https://github.com/wangruofeng/git-ignore-generator) | [Live demo](https://blog.wangruofeng007.com/git-ignore-generator/) |
+| ◈ JWT Decoder | Decode JWTs and check expiry | [Source](https://github.com/wangruofeng/jwt-decoder) | [Live demo](https://blog.wangruofeng007.com/jwt-decoder/) |
+| .* Regex Tester | Test regex matches and replacements | [Source](https://github.com/wangruofeng/regex-tester) | [Live demo](https://blog.wangruofeng007.com/regex-tester/) |
+| ◷ Cron Viewer | Explain cron expressions and next runs | [Source](https://github.com/wangruofeng/cron-viewer) | [Live demo](https://blog.wangruofeng007.com/cron-viewer/) |
+
+## Data & Formats
+
+| Project | Description | Source | Live demo |
+| --- | --- | --- | --- |
+| <>  XML Viewer | Format and inspect XML | [Source](https://github.com/wangruofeng/xml-viewer) | [Live demo](https://blog.wangruofeng007.com/xml-viewer/) |
+| ▦ CSV Viewer | Preview, filter, and export CSV | [Source](https://github.com/wangruofeng/csv-viewer) | [Live demo](https://blog.wangruofeng007.com/csv-viewer/) |
+| ≡ YAML Viewer | Format and inspect YAML | [Source](https://github.com/wangruofeng/yaml-viewer) | [Live demo](https://blog.wangruofeng007.com/yaml-viewer/) |
+| </> HTML Viewer | Preview and edit HTML structure | [Source](https://github.com/wangruofeng/html-viewer) | [Live demo](https://blog.wangruofeng007.com/html-viewer/) |
+| {} JSON to Code | Generate TypeScript, Go, and Python from JSON | [Source](https://github.com/wangruofeng/json-to-code) | [Live demo](https://blog.wangruofeng007.com/json-to-code/) |
+| ⇄ Data Converter | Convert JSON, YAML, XML, and CSV | [Source](https://github.com/wangruofeng/data-converter) | [Live demo](https://blog.wangruofeng007.com/data-converter/) |
+
+## Text & Format
+
+| Project | Description | Source | Live demo |
+| --- | --- | --- | --- |
+| ± Diff Viewer | Compare text differences | [Source](https://github.com/wangruofeng/diff-viewer) | [Live demo](https://blog.wangruofeng007.com/diff-viewer/) |
+| ◷ Timestamp Converter | Convert timestamps and dates | [Source](https://github.com/wangruofeng/timestamp-converter) | [Live demo](https://blog.wangruofeng007.com/timestamp-converter/) |
+
+## Maintenance
+
+To add or update a tool, edit `data/tools.json`, then run:
+
+```bash
+node scripts/generate-readmes.mjs
+```
+
+The GitHub Pages catalog uses the same JSON data and supports category filtering, keyword search, language switching, and local favorites.
