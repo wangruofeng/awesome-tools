@@ -28,7 +28,7 @@
 | 📐 SVG Learning | 從基礎語法到生產實務的互動式 SVG 指南 | [原始碼](https://github.com/wangruofeng/svg-learning) | [線上體驗](https://blog.wangruofeng007.com/svg-learning/) |
 | 🧩 Name That UI | 中英雙語 UI 視覺詞典與提示詞助手 | [原始碼](https://github.com/wangruofeng/learnui) | [線上體驗](https://learnui.wangruofeng007.com/) |
 
-## 開發輔助
+## 開發工具
 
 | 專案名稱 | 專案簡介 | 專案原始碼 | 線上體驗 |
 | --- | --- | --- | --- |
@@ -42,7 +42,7 @@
 | icons/json-to-code.svg JSON to Code | JSON 生成 TypeScript、Go、Python 程式碼 | [原始碼](https://github.com/wangruofeng/json-to-code) | [線上體驗](https://blog.wangruofeng007.com/json-to-code/) |
 | 🧠 meta-skill | 面向 AI agent 的思考與審查 skill 集合 | [原始碼](https://github.com/wangruofeng/meta-skill) | — |
 
-## 資料處理
+## 資料與格式
 
 | 專案名稱 | 專案簡介 | 專案原始碼 | 線上體驗 |
 | --- | --- | --- | --- |
@@ -83,10 +83,10 @@
 
 ## 维护方式
 
-新增或修改工具時，只需更新 `data/tools.json`，然後執行：
+新增或修改工具時，只需更新 `data/tools.json`，然後執行 `npm run generate:readme`。
 
 ```bash
-node scripts/generate-readmes.mjs
+npm run generate:readme
 ```
 
 The GitHub Pages catalog uses the same JSON data and supports category filtering, keyword search, language switching, and local favorites.

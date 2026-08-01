@@ -28,7 +28,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | 📐 SVG Learning | Interactive SVG guide from syntax to production | [Source](https://github.com/wangruofeng/svg-learning) | [Live demo](https://blog.wangruofeng007.com/svg-learning/) |
 | 🧩 Name That UI | Bilingual UI visual dictionary and prompt assistant | [Source](https://github.com/wangruofeng/learnui) | [Live demo](https://learnui.wangruofeng007.com/) |
 
-## Developer
+## Development
 
 | Project | Description | Source | Live demo |
 | --- | --- | --- | --- |
@@ -83,10 +83,10 @@ A categorized collection of open-source projects and online tools I build, with 
 
 ## Maintenance
 
-To add or update a tool, edit `data/tools.json`, then run:
+To add or update a tool, edit `data/tools.json`, then run `npm run generate:readme`.
 
 ```bash
-node scripts/generate-readmes.mjs
+npm run generate:readme
 ```
 
 The GitHub Pages catalog uses the same JSON data and supports category filtering, keyword search, language switching, and local favorites.
