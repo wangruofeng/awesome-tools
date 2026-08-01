@@ -5,32 +5,56 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Wang Ruofeng's open-source online tools collection.">
   <title>Awesome Tools</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="stylesheet" href="styles.css">
-  <style>@media (max-width: 620px) { .header-actions select { width: 92px; padding-left: 8px; padding-right: 5px; color: var(--text); font-size: 12px; } }</style>
 </head>
 <body>
-  <header class="site-header">
-    <a class="brand" href="./" aria-label="Awesome Tools home"><span class="brand-mark" aria-hidden="true">⠿</span><span>Awesome Tools</span></a>
-    <label class="search-wrap"><span class="sr-only" id="searchLabel">搜索工具</span><span aria-hidden="true">⌕</span><input id="search" type="search" autocomplete="off"><kbd>/</kbd></label>
-    <div class="header-actions">
-      <label class="sr-only" for="language">语言</label><select id="language" aria-label="语言"></select>
-      <button class="icon-button" id="theme" type="button" aria-label="切换深浅色">◐</button>
-      <a class="icon-button" href="https://github.com/wangruofeng/awesome-tools" aria-label="GitHub" title="GitHub">⌂</a>
-    </div>
-  </header>
-  <nav class="tabs" id="tabs" aria-label="工具分类"></nav>
-  <main class="content">
-    <section class="directory" aria-labelledby="pageTitle">
-      <div class="section-heading"><h1 id="pageTitle"></h1><p id="count" aria-live="polite"></p></div>
-      <div class="filters">
-        <label><span class="sr-only" id="categoryLabel">类别</span><select id="category"></select></label>
-        <button id="favorites" class="filter-button" type="button" aria-pressed="false">☆ <span></span></button>
+  <header>
+    <a class="logo" href="./" aria-label="Awesome Tools home">
+      <div class="mark">🧰</div>
+      <div>
+        <span id="appTitle">Awesome Tools</span>
+        <div class="sub" id="appSub"></div>
       </div>
-      <div id="results"></div>
-    </section>
-  </main>
+    </a>
+    <div class="spacer"></div>
+    <a class="icon-btn" id="githubLink" href="https://github.com/wangruofeng/awesome-tools" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.37.5 0 5.78 0 12.292c0 5.211 3.438 9.63 8.205 11.188.6.111.82-.254.82-.567 0-.28-.01-1.022-.015-2.005-3.338.711-4.042-1.582-4.042-1.582-.546-1.361-1.335-1.725-1.335-1.725-1.087-.731.084-.716.084-.716 1.205.082 1.838 1.215 1.838 1.215 1.07 1.803 2.809 1.282 3.495.981.108-.763.417-1.282.76-1.577-2.665-.295-5.466-1.309-5.466-5.827 0-1.287.465-2.339 1.235-3.164-.135-.297-.54-1.498.105-3.121 0 0 1.005-.316 3.3 1.209.96-.262 1.98-.392 3-.397 1.02.005 2.04.135 3 .397 2.28-1.525 3.285-1.209 3.285-1.209.645 1.623.24 2.824.12 3.121.765.825 1.23 1.877 1.23 3.164 0 4.53-2.805 5.527-5.475 5.817.42.354.81 1.077.81 2.182 0 1.578-.015 2.846-.015 3.229 0 .309.21.678.825.562C20.565 21.917 24 17.495 24 12.292 24 5.78 18.627.5 12 .5z"/></svg>
+    </a>
+    <div class="lang-wrap">
+      <button class="lang-btn" id="langBtn" type="button" title="切换语言 / Language" aria-label="切换语言 / Language">🌐</button>
+      <div class="lang-menu" id="langMenu" role="menu"></div>
+    </div>
+    <button class="icon-btn" id="themeBtn" type="button" title="切换深浅色"></button>
+  </header>
+
+  <div class="toolbar">
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+      <button class="clear-btn" id="clearSearch" type="button" title="清空搜索">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+      <kbd class="search-hint">/</kbd>
+    </div>
+    <div class="stat" id="count" aria-live="polite"></div>
+  </div>
+
+  <nav class="tabs" id="tabs" aria-label="工具分类"></nav>
+
+  <main id="results"></main>
+
+  <div id="toast"></div>
+
   <template id="toolTemplate">
-    <article class="tool-card"><div class="tool-main"><span class="tool-icon"></span><div><h3></h3><p></p></div><button class="favorite" type="button" aria-label="收藏"></button></div><div class="tool-links"><a class="source" target="_blank" rel="noopener"></a><a class="demo" target="_blank" rel="noopener"></a></div></article>
+    <article class="tool-card">
+      <div class="tool-main">
+        <span class="tool-icon"></span>
+        <div class="tool-text"><h3><span class="tool-name"></span><span class="use-count"></span></h3><p></p></div>
+        <button class="fav-star" type="button"></button>
+      </div>
+      <div class="tool-links"><a class="demo" target="_blank" rel="noopener"></a><a class="source" target="_blank" rel="noopener"></a></div>
+    </article>
   </template>
   <script src="app.js" defer></script>
 </body>
