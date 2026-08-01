@@ -215,6 +215,7 @@ html.dark .tool-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,.5); }
 @media (hover: none) { .fav-star { opacity: .45; } .fav-star.on { opacity: 1; } }
 
 .tool-links { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid var(--border); }
+.tool-links.source-only { grid-template-columns: 1fr; }
 .tool-links a { padding: 10px; text-align: center; color: var(--accent); font-weight: 600; text-decoration: none; font-size: 13px; transition: background .12s, color .12s; }
 .tool-links a + a { border-left: 1px solid var(--border); }
 .tool-links a:hover { background: var(--accent-soft); }

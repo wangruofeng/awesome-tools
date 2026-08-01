@@ -3,9 +3,9 @@ const FAV_TAB = '__favorites';
 const RECENT_TAB = '__recent';
 
 const copy = {
-  'zh-CN': { all:'全部', recent:'最近使用', favs:'★ 收藏', subtitle:'开源在线工具集合', search:'搜索工具（支持名称、关键词）…', clearSearch:'清空搜索', source:'源码', demo:'在线体验', count:(total, matched) => `共 ${total} 个 · 匹配 ${matched} 个`, times:n => `${n} 次`, emptyT:'未找到匹配的工具', emptyD:'换个关键词或分类试试。', emptyFavT:'还没有收藏的工具', emptyFavD:'悬停工具卡片，点击右上角星标即可收藏。', emptyRecentT:'暂无最近使用记录', emptyRecentD:'打开任意工具的在线体验或源码后，会出现在这里。', favorite:'收藏', unfavorite:'取消收藏', favOn:name => `已收藏 ${name}`, favOff:name => `已取消收藏 ${name}`, githubTitle:'查看 GitHub 源码', themeLight:'切换到浅色', themeDark:'切换到深色', langTitle:'切换语言' },
-  'zh-TW': { all:'全部', recent:'最近使用', favs:'★ 收藏', subtitle:'開源線上工具集合', search:'搜尋工具（支援名稱、關鍵詞）…', clearSearch:'清空搜尋', source:'原始碼', demo:'線上體驗', count:(total, matched) => `共 ${total} 個 · 符合 ${matched} 個`, times:n => `${n} 次`, emptyT:'未找到符合的工具', emptyD:'換個關鍵詞或分類試試。', emptyFavT:'還沒有收藏的工具', emptyFavD:'懸停工具卡片，點擊右上角星標即可收藏。', emptyRecentT:'暫無最近使用記錄', emptyRecentD:'開啟任意工具的線上體驗或原始碼後，會出現在這裡。', favorite:'收藏', unfavorite:'取消收藏', favOn:name => `已收藏 ${name}`, favOff:name => `已取消收藏 ${name}`, githubTitle:'查看 GitHub 原始碼', themeLight:'切換到淺色', themeDark:'切換到深色', langTitle:'切換語言' },
-  en: { all:'All', recent:'Recent', favs:'★ Favorites', subtitle:'Open-source online tools collection', search:'Search tools by name or keyword…', clearSearch:'Clear search', source:'Source', demo:'Live demo', count:(total, matched) => `${total} total · ${matched} matched`, times:n => `${n}×`, emptyT:'No tools found', emptyD:'Try another keyword or category.', emptyFavT:'No favorites yet', emptyFavD:'Hover a tool card and click the star in the corner to favorite it.', emptyRecentT:'No recent tools yet', emptyRecentD:'Open a tool’s live demo or source and it will show up here.', favorite:'Favorite', unfavorite:'Remove favorite', favOn:name => `Favorited ${name}`, favOff:name => `Unfavorited ${name}`, githubTitle:'View source on GitHub', themeLight:'Switch to light', themeDark:'Switch to dark', langTitle:'Language' }
+  'zh-CN': { all:'全部', recent:'最近使用', favs:'★ 收藏', subtitle:'开源作品与在线工具集合', search:'搜索作品或工具（支持名称、关键词）…', clearSearch:'清空搜索', source:'源码', demo:'在线体验', count:(total, matched) => `共 ${total} 个 · 匹配 ${matched} 个`, times:n => `${n} 次`, emptyT:'未找到匹配的作品或工具', emptyD:'换个关键词或分类试试。', emptyFavT:'还没有收藏的作品或工具', emptyFavD:'悬停卡片，点击右上角星标即可收藏。', emptyRecentT:'暂无最近使用记录', emptyRecentD:'打开任意作品或工具的在线体验或源码后，会出现在这里。', favorite:'收藏', unfavorite:'取消收藏', favOn:name => `已收藏 ${name}`, favOff:name => `已取消收藏 ${name}`, githubTitle:'查看 GitHub 源码', themeLight:'切换到浅色', themeDark:'切换到深色', langTitle:'切换语言' },
+  'zh-TW': { all:'全部', recent:'最近使用', favs:'★ 收藏', subtitle:'開源作品與線上工具集合', search:'搜尋作品或工具（支援名稱、關鍵詞）…', clearSearch:'清空搜尋', source:'原始碼', demo:'線上體驗', count:(total, matched) => `共 ${total} 個 · 符合 ${matched} 個`, times:n => `${n} 次`, emptyT:'未找到符合的作品或工具', emptyD:'換個關鍵詞或分類試試。', emptyFavT:'還沒有收藏的作品或工具', emptyFavD:'懸停卡片，點擊右上角星標即可收藏。', emptyRecentT:'暫無最近使用記錄', emptyRecentD:'開啟任意作品或工具的線上體驗或原始碼後，會出現在這裡。', favorite:'收藏', unfavorite:'取消收藏', favOn:name => `已收藏 ${name}`, favOff:name => `已取消收藏 ${name}`, githubTitle:'查看 GitHub 原始碼', themeLight:'切換到淺色', themeDark:'切換到深色', langTitle:'切換語言' },
+  en: { all:'All', recent:'Recent', favs:'★ Favorites', subtitle:'Open-source projects and online tools collection', search:'Search projects or tools by name or keyword…', clearSearch:'Clear search', source:'Source', demo:'Live demo', count:(total, matched) => `${total} total · ${matched} matched`, times:n => `${n}×`, emptyT:'No matching projects or tools', emptyD:'Try another keyword or category.', emptyFavT:'No favorite projects or tools yet', emptyFavD:'Hover a card and click the star in the corner to favorite it.', emptyRecentT:'No recent items yet', emptyRecentD:'Open an item’s live demo or source and it will show up here.', favorite:'Favorite', unfavorite:'Remove favorite', favOn:name => `Favorited ${name}`, favOff:name => `Unfavorited ${name}`, githubTitle:'View source on GitHub', themeLight:'Switch to light', themeDark:'Switch to dark', langTitle:'Language' }
 };
 const languageNames = { 'zh-CN':'简体中文', 'zh-TW':'繁體中文', en:'English' };
 
@@ -65,13 +65,14 @@ function createTool(tool) {
   const card = node.querySelector('.tool-card');
   const name = tool.name[state.language];
   const icon = node.querySelector('.tool-icon');
-  if (tool.icon.includes('/')) {
+  const favicon = state.data.favicons?.[tool.id];
+  if (favicon) {
     const img = document.createElement('img');
-    img.src = tool.icon; img.alt = ''; img.loading = 'lazy';
+    img.src = favicon;
+    img.alt = ''; img.loading = 'lazy';
+    img.addEventListener('error', () => icon.remove());
     icon.append(img);
-  } else {
-    icon.textContent = tool.icon;
-  }
+  } else icon.remove();
   node.querySelector('.tool-name').textContent = name;
   const useCount = node.querySelector('.use-count');
   if (state.category === RECENT_TAB && state.recent[tool.id]) {
@@ -93,8 +94,15 @@ function createTool(tool) {
     render();
   });
   const source = node.querySelector('.source'); source.href = tool.source; source.textContent = text().source;
-  const demo = node.querySelector('.demo'); demo.href = tool.demo; demo.textContent = text().demo;
-  [source, demo].forEach(link => link.addEventListener('click', () => recordUse(tool.id)));
+  const demo = node.querySelector('.demo');
+  if (tool.demo) {
+    demo.href = tool.demo; demo.textContent = text().demo;
+    demo.addEventListener('click', () => recordUse(tool.id));
+  } else {
+    demo.remove();
+    source.parentElement.classList.add('source-only');
+  }
+  source.addEventListener('click', () => recordUse(tool.id));
   return card;
 }
 

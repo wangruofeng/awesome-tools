@@ -1,25 +1,84 @@
 {
   "categories": {
     "daily": {
-      "zh-CN": "日常实用",
-      "zh-TW": "日常實用",
-      "en": "Everyday"
+      "zh-CN": "日常生活",
+      "zh-TW": "日常生活",
+      "en": "Daily Life"
+    },
+    "learning": {
+      "zh-CN": "学习与知识",
+      "zh-TW": "學習與知識",
+      "en": "Learning & Knowledge"
     },
     "developer": {
-      "zh-CN": "开发辅助",
-      "zh-TW": "開發輔助",
-      "en": "Developer"
+      "zh-CN": "开发工具",
+      "zh-TW": "開發工具",
+      "en": "Development"
     },
     "data": {
-      "zh-CN": "数据处理",
-      "zh-TW": "資料處理",
+      "zh-CN": "数据与格式",
+      "zh-TW": "資料與格式",
       "en": "Data & Formats"
     },
-    "text": {
-      "zh-CN": "文本与格式",
-      "zh-TW": "文字與格式",
-      "en": "Text & Format"
+    "creative": {
+      "zh-CN": "创意与设计",
+      "zh-TW": "創意與設計",
+      "en": "Creative & Design"
+    },
+    "productivity": {
+      "zh-CN": "AI 与效率",
+      "zh-TW": "AI 與效率",
+      "en": "AI & Productivity"
+    },
+    "services": {
+      "zh-CN": "网络与服务",
+      "zh-TW": "網路與服務",
+      "en": "Network & Services"
     }
+  },
+  "favicons": {
+    "qr-tool": "https://blog.wangruofeng007.com/qr-tool/favicon.svg",
+    "file-hash": "https://blog.wangruofeng007.com/file-hash/favicon.svg",
+    "unicode-lookup": "https://blog.wangruofeng007.com/unicode-lookup/favicon.svg",
+    "id-card": "https://blog.wangruofeng007.com/id-card/favicon.svg",
+    "tax-calc": "https://blog.wangruofeng007.com/tax-calc/favicon.svg",
+    "mortgage-calc": "https://blog.wangruofeng007.com/mortgage-calc/favicon.svg",
+    "rmb-words": "https://blog.wangruofeng007.com/rmb-words/favicon.svg",
+    "emoji-picker": "https://blog.wangruofeng007.com/emoji-picker/favicon.svg",
+    "country-info": "https://blog.wangruofeng007.com/country-info/favicon.svg",
+    "port-list": "https://blog.wangruofeng007.com/port-list/favicon.svg",
+    "css-unit-converter": "https://blog.wangruofeng007.com/css-unit-converter/favicon.svg",
+    "git-ignore-generator": "https://blog.wangruofeng007.com/git-ignore-generator/favicon.svg",
+    "jwt-decoder": "https://blog.wangruofeng007.com/jwt-decoder/favicon.svg",
+    "regex-tester": "https://blog.wangruofeng007.com/regex-tester/favicon.svg",
+    "cron-viewer": "https://blog.wangruofeng007.com/cron-viewer/favicon.svg",
+    "xml-viewer": "https://blog.wangruofeng007.com/xml-viewer/favicon.svg",
+    "csv-viewer": "https://blog.wangruofeng007.com/csv-viewer/favicon.svg",
+    "yaml-viewer": "https://blog.wangruofeng007.com/yaml-viewer/favicon.svg",
+    "html-viewer": "https://blog.wangruofeng007.com/html-viewer/favicon.svg",
+    "json-to-code": "https://blog.wangruofeng007.com/json-to-code/favicon.svg",
+    "data-converter": "https://blog.wangruofeng007.com/data-converter/favicon.svg",
+    "diff-viewer": "https://blog.wangruofeng007.com/diff-viewer/favicon.svg",
+    "timestamp-converter": "https://blog.wangruofeng007.com/timestamp-converter/favicon.svg",
+    "llm-terms-workshop": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>",
+    "github-course": "https://github-course.wangruofeng007.com/favicon.svg",
+    "word-root-workshop": null,
+    "svg-learning": "https://blog.wangruofeng007.com/svg-learning/favicon.svg",
+    "web-animation": "https://web-animation.wangruofeng007.com/favicon.svg",
+    "learnui": "https://learnui.wangruofeng007.com/favicon.png",
+    "animation-playground": "https://playground.wangruofeng007.com/favicon.svg",
+    "meta-skill": "https://github.githubassets.com/favicons/favicon.svg",
+    "vecsy": "https://vecsy.top/favicon.svg?v=9f832763",
+    "newsnow": "https://newsnow.wangruofeng007.com/icon.svg",
+    "simple-gemini-cli": "https://github.githubassets.com/favicons/favicon.svg",
+    "feishu2wx": "https://feishu2wx.wangruofeng007.com/favicon.svg",
+    "img-compress": "https://img-compress.wangruofeng007.com/assets/favicon-B8fYpGsj.svg",
+    "lunar-birthday-reminder": null,
+    "youtube-live-translate": "https://github.githubassets.com/favicons/favicon.svg",
+    "ftp-server": "https://github.githubassets.com/favicons/favicon.svg",
+    "easy-ftp": "https://github.githubassets.com/favicons/favicon.svg",
+    "text-snap": "https://github.githubassets.com/favicons/favicon.svg",
+    "json-viewer": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='%232563eb'/><stop offset='1' stop-color='%237c3aed'/></linearGradient></defs><rect width='32' height='32' rx='7' fill='url(%23g)'/><text x='16' y='16' text-anchor='middle' dominant-baseline='central' font-family='-apple-system,Segoe UI,Arial,sans-serif' font-size='17' font-weight='700' fill='%23ffffff'>{ }</text></svg>"
   },
   "tools": [
     {
@@ -42,7 +101,7 @@
     {
       "id": "file-hash",
       "icon": "icons/file-hash.svg",
-      "category": "daily",
+      "category": "data",
       "name": {
         "zh-CN": "文件哈希校验",
         "zh-TW": "檔案雜湊校驗",
@@ -59,7 +118,7 @@
     {
       "id": "unicode-lookup",
       "icon": "icons/unicode-lookup.svg",
-      "category": "daily",
+      "category": "learning",
       "name": {
         "zh-CN": "Unicode 速查",
         "zh-TW": "Unicode 速查",
@@ -331,7 +390,7 @@
     {
       "id": "html-viewer",
       "icon": "icons/html-viewer.svg",
-      "category": "data",
+      "category": "developer",
       "name": {
         "zh-CN": "HTML Viewer",
         "zh-TW": "HTML Viewer",
@@ -348,7 +407,7 @@
     {
       "id": "json-to-code",
       "icon": "icons/json-to-code.svg",
-      "category": "data",
+      "category": "developer",
       "name": {
         "zh-CN": "JSON to Code",
         "zh-TW": "JSON to Code",
@@ -382,7 +441,7 @@
     {
       "id": "diff-viewer",
       "icon": "icons/diff-viewer.svg",
-      "category": "text",
+      "category": "data",
       "name": {
         "zh-CN": "Diff Viewer",
         "zh-TW": "Diff Viewer",
@@ -399,7 +458,7 @@
     {
       "id": "timestamp-converter",
       "icon": "icons/timestamp-converter.svg",
-      "category": "text",
+      "category": "data",
       "name": {
         "zh-CN": "Timestamp Converter",
         "zh-TW": "Timestamp Converter",
@@ -412,6 +471,120 @@
       },
       "source": "https://github.com/wangruofeng/timestamp-converter",
       "demo": "https://blog.wangruofeng007.com/timestamp-converter/"
+    },
+    {
+      "id": "llm-terms-workshop", "icon": "📚", "category": "learning",
+      "name": { "zh-CN": "LLM Terms Workshop", "zh-TW": "LLM Terms Workshop", "en": "LLM Terms Workshop" },
+      "description": { "zh-CN": "30 个核心大语言模型概念学习", "zh-TW": "學習 30 個核心大型語言模型概念", "en": "Learn 30 core Large Language Model concepts" },
+      "source": "https://github.com/wangruofeng/big-model-terms", "demo": "https://blog.wangruofeng007.com/big-model-terms/"
+    },
+    {
+      "id": "github-course", "icon": "🧭", "category": "learning",
+      "name": { "zh-CN": "GitHub Course", "zh-TW": "GitHub Course", "en": "GitHub Course" },
+      "description": { "zh-CN": "通过代码解读开源项目的中英文课程", "zh-TW": "透過程式碼解讀開源專案的中英文課程", "en": "Bilingual courses for understanding open-source projects through code" },
+      "source": "https://github.com/wangruofeng/github-course", "demo": "https://github-course.wangruofeng007.com/"
+    },
+    {
+      "id": "word-root-workshop", "icon": "📖", "category": "learning",
+      "name": { "zh-CN": "Word Root Workshop", "zh-TW": "Word Root Workshop", "en": "Word Root Workshop" },
+      "description": { "zh-CN": "通过词根、前缀和后缀学习英语词汇", "zh-TW": "透過字根、字首與字尾學習英語詞彙", "en": "Learn English vocabulary through roots, prefixes, and suffixes" },
+      "source": "https://github.com/wangruofeng/word-root-workshop", "demo": "https://blog.wangruofeng007.com/word-root-workshop/"
+    },
+    {
+      "id": "svg-learning", "icon": "📐", "category": "learning",
+      "name": { "zh-CN": "SVG Learning", "zh-TW": "SVG Learning", "en": "SVG Learning" },
+      "description": { "zh-CN": "从基础语法到生产实践的交互式 SVG 指南", "zh-TW": "從基礎語法到生產實務的互動式 SVG 指南", "en": "Interactive SVG guide from syntax to production" },
+      "source": "https://github.com/wangruofeng/svg-learning", "demo": "https://blog.wangruofeng007.com/svg-learning/"
+    },
+    {
+      "id": "web-animation", "icon": "🎬", "category": "creative",
+      "name": { "zh-CN": "Web Animation", "zh-TW": "Web Animation", "en": "Web Animation" },
+      "description": { "zh-CN": "Web 动画技术体系的交互式指南", "zh-TW": "Web 動畫技術體系的互動式指南", "en": "Interactive guide to the Web animation ecosystem" },
+      "source": "https://github.com/wangruofeng/web-animation", "demo": "https://web-animation.wangruofeng007.com/"
+    },
+    {
+      "id": "learnui", "icon": "🧩", "category": "learning",
+      "name": { "zh-CN": "Name That UI", "zh-TW": "Name That UI", "en": "Name That UI" },
+      "description": { "zh-CN": "中英双语 UI 视觉词典与提示词助手", "zh-TW": "中英雙語 UI 視覺詞典與提示詞助手", "en": "Bilingual UI visual dictionary and prompt assistant" },
+      "source": "https://github.com/wangruofeng/learnui", "demo": "https://learnui.wangruofeng007.com/"
+    },
+    {
+      "id": "animation-playground", "icon": "🎞️", "category": "creative",
+      "name": { "zh-CN": "Animation Playground", "zh-TW": "Animation Playground", "en": "Animation Playground" },
+      "description": { "zh-CN": "140+ 个 CSS、SVG 和 Canvas 动画效果合集", "zh-TW": "140+ 個 CSS、SVG 與 Canvas 動畫效果合集", "en": "Collection of 140+ CSS, SVG, and Canvas animation effects" },
+      "source": "https://github.com/wangruofeng/animation-playground", "demo": "https://playground.wangruofeng007.com"
+    },
+    {
+      "id": "meta-skill", "icon": "🧠", "category": "developer",
+      "name": { "zh-CN": "meta-skill", "zh-TW": "meta-skill", "en": "meta-skill" },
+      "description": { "zh-CN": "面向 AI agent 的思考与审查 skill 集合", "zh-TW": "面向 AI agent 的思考與審查 skill 集合", "en": "Skills for AI-agent reasoning and review" },
+      "source": "https://github.com/wangruofeng/meta-skill"
+    },
+    {
+      "id": "vecsy", "icon": "🧩", "category": "creative",
+      "name": { "zh-CN": "Vecsy", "zh-TW": "Vecsy", "en": "Vecsy" },
+      "description": { "zh-CN": "开源 SVG 编辑器与矢量设计工作室", "zh-TW": "開源 SVG 編輯器與向量設計工作室", "en": "Open-source SVG editor and vector design studio" },
+      "source": "https://github.com/wangruofeng/vecsy", "demo": "https://vecsy.top/"
+    },
+    {
+      "id": "newsnow", "icon": "📰", "category": "services",
+      "name": { "zh-CN": "NewsNow", "zh-TW": "NewsNow", "en": "NewsNow" },
+      "description": { "zh-CN": "实时与热门新闻聚合阅读平台", "zh-TW": "即時與熱門新聞聚合閱讀平台", "en": "Real-time and trending news aggregation platform" },
+      "source": "https://github.com/wangruofeng/newsnow", "demo": "https://newsnow.wangruofeng007.com/"
+    },
+    {
+      "id": "simple-gemini-cli", "icon": "🔧", "category": "productivity",
+      "name": { "zh-CN": "simple-gemini-cli", "zh-TW": "simple-gemini-cli", "en": "simple-gemini-cli" },
+      "description": { "zh-CN": "Google Gemini API 的简洁命令行工具", "zh-TW": "Google Gemini API 的簡潔命令列工具", "en": "Simple command-line tool for the Google Gemini API" },
+      "source": "https://github.com/wangruofeng/simple-gemini-cli"
+    },
+    {
+      "id": "feishu2wx", "icon": "🔗", "category": "productivity",
+      "name": { "zh-CN": "Feishu to WeChat", "zh-TW": "Feishu to WeChat", "en": "Feishu to WeChat" },
+      "description": { "zh-CN": "飞书文档转微信公众号排版工具", "zh-TW": "飛書文件轉微信公眾號排版工具", "en": "Format Feishu documents for WeChat articles" },
+      "source": "https://github.com/wangruofeng/feishu2wx", "demo": "https://feishu2wx.wangruofeng007.com/"
+    },
+    {
+      "id": "img-compress", "icon": "🗜️", "category": "creative",
+      "name": { "zh-CN": "ImgCompress", "zh-TW": "ImgCompress", "en": "ImgCompress" },
+      "description": { "zh-CN": "安全、快速、完全基于浏览器的图像压缩工具", "zh-TW": "安全、快速、完全基於瀏覽器的圖像壓縮工具", "en": "Safe, fast, fully browser-based image compression tool" },
+      "source": "https://github.com/wangruofeng/img-compress", "demo": "https://img-compress.wangruofeng007.com/"
+    },
+    {
+      "id": "lunar-birthday-reminder", "icon": "📅", "category": "daily",
+      "name": { "zh-CN": "lunar-birthday-reminder", "zh-TW": "lunar-birthday-reminder", "en": "lunar-birthday-reminder" },
+      "description": { "zh-CN": "农历生日管理与提醒应用，支持多套实现", "zh-TW": "農曆生日管理與提醒應用，支援多套實作", "en": "Lunar birthday manager and reminder app with multiple implementations" },
+      "source": "https://github.com/wangruofeng/lunar-birthday-reminder", "demo": "https://blog.wangruofeng007.com/lunar-birthday-reminder/"
+    },
+    {
+      "id": "youtube-live-translate", "icon": "🎬", "category": "productivity",
+      "name": { "zh-CN": "youtube-live-translate", "zh-TW": "youtube-live-translate", "en": "youtube-live-translate" },
+      "description": { "zh-CN": "YouTube 直播实时翻译工具", "zh-TW": "YouTube 直播即時翻譯工具", "en": "Real-time YouTube livestream translation tool" },
+      "source": "https://github.com/wangruofeng/youtube-live-translate"
+    },
+    {
+      "id": "ftp-server", "icon": "📡", "category": "services",
+      "name": { "zh-CN": "ftp-server", "zh-TW": "ftp-server", "en": "ftp-server" },
+      "description": { "zh-CN": "带 Web 界面的 Python FTP 服务", "zh-TW": "帶 Web 介面的 Python FTP 服務", "en": "Python FTP server with a Web interface" },
+      "source": "https://github.com/wangruofeng/ftp-server"
+    },
+    {
+      "id": "easy-ftp", "icon": "🌐", "category": "services",
+      "name": { "zh-CN": "easy-ftp", "zh-TW": "easy-ftp", "en": "easy-ftp" },
+      "description": { "zh-CN": "经典目录索引风格的 FTP 服务", "zh-TW": "經典目錄索引風格的 FTP 服務", "en": "FTP server with a classic Web directory index" },
+      "source": "https://github.com/wangruofeng/easy-ftp"
+    },
+    {
+      "id": "text-snap", "icon": "📸", "category": "productivity",
+      "name": { "zh-CN": "TextSnap", "zh-TW": "TextSnap", "en": "TextSnap" },
+      "description": { "zh-CN": "macOS 菜单栏 OCR 工具，支持本地离线识别", "zh-TW": "macOS 選單列 OCR 工具，支援本地離線辨識", "en": "macOS menu bar OCR tool with local offline recognition" },
+      "source": "https://github.com/wangruofeng/text-snap"
+    },
+    {
+      "id": "json-viewer", "icon": "🧾", "category": "data",
+      "name": { "zh-CN": "JSON Viewer", "zh-TW": "JSON Viewer", "en": "JSON Viewer" },
+      "description": { "zh-CN": "JSON 格式化与查看", "zh-TW": "JSON 格式化與查看", "en": "Format and inspect JSON" },
+      "source": "https://github.com/wangruofeng/json-viewer", "demo": "https://blog.wangruofeng007.com/json-viewer/"
     }
   ]
 }
