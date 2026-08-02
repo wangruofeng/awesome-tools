@@ -83,7 +83,7 @@
   "tools": [
     {
       "id": "qr-tool",
-      "icon": "icons/qr-tool.svg",
+      "icon": "▦",
       "category": "daily",
       "name": {
         "zh-CN": "二维码工具",
@@ -100,7 +100,7 @@
     },
     {
       "id": "file-hash",
-      "icon": "icons/file-hash.svg",
+      "icon": "#️⃣",
       "category": "data",
       "name": {
         "zh-CN": "文件哈希校验",
@@ -117,7 +117,7 @@
     },
     {
       "id": "unicode-lookup",
-      "icon": "icons/unicode-lookup.svg",
+      "icon": "🔤",
       "category": "learning",
       "name": {
         "zh-CN": "Unicode 速查",
@@ -134,7 +134,7 @@
     },
     {
       "id": "id-card",
-      "icon": "icons/id-card.svg",
+      "icon": "🪪",
       "category": "daily",
       "name": {
         "zh-CN": "身份证解析校验",
@@ -151,7 +151,7 @@
     },
     {
       "id": "tax-calc",
-      "icon": "icons/tax-calc.svg",
+      "icon": "🧮",
       "category": "daily",
       "name": {
         "zh-CN": "个税计算器",
@@ -168,7 +168,7 @@
     },
     {
       "id": "mortgage-calc",
-      "icon": "icons/mortgage-calc.svg",
+      "icon": "🏠",
       "category": "daily",
       "name": {
         "zh-CN": "房贷计算器",
@@ -185,7 +185,7 @@
     },
     {
       "id": "rmb-words",
-      "icon": "icons/rmb-words.svg",
+      "icon": "💴",
       "category": "daily",
       "name": {
         "zh-CN": "金额大写转换",
@@ -202,7 +202,7 @@
     },
     {
       "id": "emoji-picker",
-      "icon": "icons/emoji-picker.svg",
+      "icon": "😀",
       "category": "daily",
       "name": {
         "zh-CN": "Emoji Picker",
@@ -219,7 +219,7 @@
     },
     {
       "id": "country-info",
-      "icon": "icons/country-info.svg",
+      "icon": "🌍",
       "category": "daily",
       "name": {
         "zh-CN": "Country Info",
@@ -236,7 +236,7 @@
     },
     {
       "id": "port-list",
-      "icon": "icons/port-list.svg",
+      "icon": "🔌",
       "category": "developer",
       "name": {
         "zh-CN": "常用端口速查",
@@ -253,7 +253,7 @@
     },
     {
       "id": "css-unit-converter",
-      "icon": "icons/css-unit-converter.svg",
+      "icon": "📐",
       "category": "developer",
       "name": {
         "zh-CN": "CSS Unit Converter",
@@ -270,7 +270,7 @@
     },
     {
       "id": "git-ignore-generator",
-      "icon": "icons/git-ignore-generator.svg",
+      "icon": "📝",
       "category": "developer",
       "name": {
         "zh-CN": ".gitignore Generator",
@@ -287,7 +287,7 @@
     },
     {
       "id": "jwt-decoder",
-      "icon": "icons/jwt-decoder.svg",
+      "icon": "🧾",
       "category": "developer",
       "name": {
         "zh-CN": "JWT Decoder",
@@ -304,7 +304,7 @@
     },
     {
       "id": "regex-tester",
-      "icon": "icons/regex-tester.svg",
+      "icon": "🧾",
       "category": "developer",
       "name": {
         "zh-CN": "Regex Tester",
@@ -321,7 +321,7 @@
     },
     {
       "id": "cron-viewer",
-      "icon": "icons/cron-viewer.svg",
+      "icon": "🧾",
       "category": "developer",
       "name": {
         "zh-CN": "Cron Viewer",
@@ -338,7 +338,7 @@
     },
     {
       "id": "xml-viewer",
-      "icon": "icons/xml-viewer.svg",
+      "icon": "🧾",
       "category": "data",
       "name": {
         "zh-CN": "XML Viewer",
@@ -355,7 +355,7 @@
     },
     {
       "id": "csv-viewer",
-      "icon": "icons/csv-viewer.svg",
+      "icon": "🧾",
       "category": "data",
       "name": {
         "zh-CN": "CSV Viewer",
@@ -372,7 +372,7 @@
     },
     {
       "id": "yaml-viewer",
-      "icon": "icons/yaml-viewer.svg",
+      "icon": "🧾",
       "category": "data",
       "name": {
         "zh-CN": "YAML Viewer",
@@ -389,7 +389,7 @@
     },
     {
       "id": "html-viewer",
-      "icon": "icons/html-viewer.svg",
+      "icon": "🧾",
       "category": "developer",
       "name": {
         "zh-CN": "HTML Viewer",
@@ -406,7 +406,7 @@
     },
     {
       "id": "json-to-code",
-      "icon": "icons/json-to-code.svg",
+      "icon": "🧾",
       "category": "developer",
       "name": {
         "zh-CN": "JSON to Code",
@@ -423,7 +423,7 @@
     },
     {
       "id": "data-converter",
-      "icon": "icons/data-converter.svg",
+      "icon": "🧾",
       "category": "data",
       "name": {
         "zh-CN": "Data Converter",
@@ -440,7 +440,7 @@
     },
     {
       "id": "diff-viewer",
-      "icon": "icons/diff-viewer.svg",
+      "icon": "🧾",
       "category": "data",
       "name": {
         "zh-CN": "Diff Viewer",
@@ -457,7 +457,7 @@
     },
     {
       "id": "timestamp-converter",
-      "icon": "icons/timestamp-converter.svg",
+      "icon": "🧾",
       "category": "data",
       "name": {
         "zh-CN": "Timestamp Converter",
