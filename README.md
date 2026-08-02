@@ -35,11 +35,11 @@
 | 🔌 常用端口速查 | 常用网络端口查询与分类浏览 | [源码](https://github.com/wangruofeng/port-list) | [在线体验](https://blog.wangruofeng007.com/port-list/) |
 | 📐 CSS Unit Converter | CSS 单位实时换算 | [源码](https://github.com/wangruofeng/css-unit-converter) | [在线体验](https://blog.wangruofeng007.com/css-unit-converter/) |
 | 📝 .gitignore Generator | 按技术栈模板生成 .gitignore 文件 | [源码](https://github.com/wangruofeng/git-ignore-generator) | [在线体验](https://blog.wangruofeng007.com/git-ignore-generator/) |
-| 🧾 JWT Decoder | JWT 解码与过期检查 | [源码](https://github.com/wangruofeng/jwt-decoder) | [在线体验](https://blog.wangruofeng007.com/jwt-decoder/) |
-| 🧾 Regex Tester | 正则匹配与替换测试 | [源码](https://github.com/wangruofeng/regex-tester) | [在线体验](https://blog.wangruofeng007.com/regex-tester/) |
-| 🧾 Cron Viewer | Cron 解析与触发时间查看 | [源码](https://github.com/wangruofeng/cron-viewer) | [在线体验](https://blog.wangruofeng007.com/cron-viewer/) |
-| 🧾 HTML Viewer | HTML 结构预览与编辑 | [源码](https://github.com/wangruofeng/html-viewer) | [在线体验](https://blog.wangruofeng007.com/html-viewer/) |
-| 🧾 JSON to Code | JSON 生成 TypeScript、Go、Python 代码 | [源码](https://github.com/wangruofeng/json-to-code) | [在线体验](https://blog.wangruofeng007.com/json-to-code/) |
+| 🔐 JWT Decoder | JWT 解码与过期检查 | [源码](https://github.com/wangruofeng/jwt-decoder) | [在线体验](https://blog.wangruofeng007.com/jwt-decoder/) |
+| 🧪 Regex Tester | 正则匹配与替换测试 | [源码](https://github.com/wangruofeng/regex-tester) | [在线体验](https://blog.wangruofeng007.com/regex-tester/) |
+| ⏰ Cron Viewer | Cron 解析与触发时间查看 | [源码](https://github.com/wangruofeng/cron-viewer) | [在线体验](https://blog.wangruofeng007.com/cron-viewer/) |
+| 🖥️ HTML Viewer | HTML 结构预览与编辑 | [源码](https://github.com/wangruofeng/html-viewer) | [在线体验](https://blog.wangruofeng007.com/html-viewer/) |
+| ⚙️ JSON to Code | JSON 生成 TypeScript、Go、Python 代码 | [源码](https://github.com/wangruofeng/json-to-code) | [在线体验](https://blog.wangruofeng007.com/json-to-code/) |
 | 🧠 meta-skill | 面向 AI agent 的思考与审查 skill 集合 | [源码](https://github.com/wangruofeng/meta-skill) | — |
 
 ## 数据与格式
@@ -47,13 +47,13 @@
 | 项目名称 | 项目简介 | 项目源码 | 在线体验 |
 | --- | --- | --- | --- |
 | #️⃣ 文件哈希校验 | 本地计算与比对文件哈希值 | [源码](https://github.com/wangruofeng/file-hash) | [在线体验](https://blog.wangruofeng007.com/file-hash/) |
-| 🧾 XML Viewer | XML 格式化与查看 | [源码](https://github.com/wangruofeng/xml-viewer) | [在线体验](https://blog.wangruofeng007.com/xml-viewer/) |
-| 🧾 CSV Viewer | CSV 预览、过滤与导出 | [源码](https://github.com/wangruofeng/csv-viewer) | [在线体验](https://blog.wangruofeng007.com/csv-viewer/) |
-| 🧾 YAML Viewer | YAML 格式化与查看 | [源码](https://github.com/wangruofeng/yaml-viewer) | [在线体验](https://blog.wangruofeng007.com/yaml-viewer/) |
-| 🧾 Data Converter | JSON、YAML、XML、CSV 互转 | [源码](https://github.com/wangruofeng/data-converter) | [在线体验](https://blog.wangruofeng007.com/data-converter/) |
-| 🧾 Diff Viewer | 文本差异对比 | [源码](https://github.com/wangruofeng/diff-viewer) | [在线体验](https://blog.wangruofeng007.com/diff-viewer/) |
-| 🧾 Timestamp Converter | 时间戳与日期转换 | [源码](https://github.com/wangruofeng/timestamp-converter) | [在线体验](https://blog.wangruofeng007.com/timestamp-converter/) |
-| 🧾 JSON Viewer | JSON 格式化与查看 | [源码](https://github.com/wangruofeng/json-viewer) | [在线体验](https://blog.wangruofeng007.com/json-viewer/) |
+| 🗂️ XML Viewer | XML 格式化与查看 | [源码](https://github.com/wangruofeng/xml-viewer) | [在线体验](https://blog.wangruofeng007.com/xml-viewer/) |
+| 📊 CSV Viewer | CSV 预览、过滤与导出 | [源码](https://github.com/wangruofeng/csv-viewer) | [在线体验](https://blog.wangruofeng007.com/csv-viewer/) |
+| 📄 YAML Viewer | YAML 格式化与查看 | [源码](https://github.com/wangruofeng/yaml-viewer) | [在线体验](https://blog.wangruofeng007.com/yaml-viewer/) |
+| 🔄 Data Converter | JSON、YAML、XML、CSV 互转 | [源码](https://github.com/wangruofeng/data-converter) | [在线体验](https://blog.wangruofeng007.com/data-converter/) |
+| ↔️ Diff Viewer | 文本差异对比 | [源码](https://github.com/wangruofeng/diff-viewer) | [在线体验](https://blog.wangruofeng007.com/diff-viewer/) |
+| ⏱️ Timestamp Converter | 时间戳与日期转换 | [源码](https://github.com/wangruofeng/timestamp-converter) | [在线体验](https://blog.wangruofeng007.com/timestamp-converter/) |
+| 🔍 JSON Viewer | JSON 格式化与查看 | [源码](https://github.com/wangruofeng/json-viewer) | [在线体验](https://blog.wangruofeng007.com/json-viewer/) |
 
 ## 创意与设计
 

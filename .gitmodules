@@ -1,0 +1,3 @@
+[submodule "vendor/portfolio-data"]
+	path = vendor/portfolio-data
+	url = https://github.com/wangruofeng/portfolio-data.git

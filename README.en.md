@@ -35,11 +35,11 @@ A categorized collection of open-source projects and online tools I build, with 
 | 🔌 Port List | Look up and browse common network ports | [Source](https://github.com/wangruofeng/port-list) | [Live demo](https://blog.wangruofeng007.com/port-list/) |
 | 📐 CSS Unit Converter | Convert CSS units in real time | [Source](https://github.com/wangruofeng/css-unit-converter) | [Live demo](https://blog.wangruofeng007.com/css-unit-converter/) |
 | 📝 .gitignore Generator | Generate .gitignore files from technology-stack templates | [Source](https://github.com/wangruofeng/git-ignore-generator) | [Live demo](https://blog.wangruofeng007.com/git-ignore-generator/) |
-| 🧾 JWT Decoder | Decode JWTs and check expiry | [Source](https://github.com/wangruofeng/jwt-decoder) | [Live demo](https://blog.wangruofeng007.com/jwt-decoder/) |
-| 🧾 Regex Tester | Test regex matches and replacements | [Source](https://github.com/wangruofeng/regex-tester) | [Live demo](https://blog.wangruofeng007.com/regex-tester/) |
-| 🧾 Cron Viewer | Explain cron expressions and next runs | [Source](https://github.com/wangruofeng/cron-viewer) | [Live demo](https://blog.wangruofeng007.com/cron-viewer/) |
-| 🧾 HTML Viewer | Preview and edit HTML structure | [Source](https://github.com/wangruofeng/html-viewer) | [Live demo](https://blog.wangruofeng007.com/html-viewer/) |
-| 🧾 JSON to Code | Generate TypeScript, Go, and Python from JSON | [Source](https://github.com/wangruofeng/json-to-code) | [Live demo](https://blog.wangruofeng007.com/json-to-code/) |
+| 🔐 JWT Decoder | Decode JWTs and check expiry | [Source](https://github.com/wangruofeng/jwt-decoder) | [Live demo](https://blog.wangruofeng007.com/jwt-decoder/) |
+| 🧪 Regex Tester | Test regex matches and replacements | [Source](https://github.com/wangruofeng/regex-tester) | [Live demo](https://blog.wangruofeng007.com/regex-tester/) |
+| ⏰ Cron Viewer | Explain cron expressions and next runs | [Source](https://github.com/wangruofeng/cron-viewer) | [Live demo](https://blog.wangruofeng007.com/cron-viewer/) |
+| 🖥️ HTML Viewer | Preview and edit HTML structure | [Source](https://github.com/wangruofeng/html-viewer) | [Live demo](https://blog.wangruofeng007.com/html-viewer/) |
+| ⚙️ JSON to Code | Generate TypeScript, Go, and Python from JSON | [Source](https://github.com/wangruofeng/json-to-code) | [Live demo](https://blog.wangruofeng007.com/json-to-code/) |
 | 🧠 meta-skill | Skills for AI-agent reasoning and review | [Source](https://github.com/wangruofeng/meta-skill) | — |
 
 ## Data & Formats
@@ -47,13 +47,13 @@ A categorized collection of open-source projects and online tools I build, with 
 | Project | Description | Source | Live demo |
 | --- | --- | --- | --- |
 | #️⃣ File Hash Checker | Calculate and verify file hashes locally | [Source](https://github.com/wangruofeng/file-hash) | [Live demo](https://blog.wangruofeng007.com/file-hash/) |
-| 🧾 XML Viewer | Format and inspect XML | [Source](https://github.com/wangruofeng/xml-viewer) | [Live demo](https://blog.wangruofeng007.com/xml-viewer/) |
-| 🧾 CSV Viewer | Preview, filter, and export CSV | [Source](https://github.com/wangruofeng/csv-viewer) | [Live demo](https://blog.wangruofeng007.com/csv-viewer/) |
-| 🧾 YAML Viewer | Format and inspect YAML | [Source](https://github.com/wangruofeng/yaml-viewer) | [Live demo](https://blog.wangruofeng007.com/yaml-viewer/) |
-| 🧾 Data Converter | Convert JSON, YAML, XML, and CSV | [Source](https://github.com/wangruofeng/data-converter) | [Live demo](https://blog.wangruofeng007.com/data-converter/) |
-| 🧾 Diff Viewer | Compare text differences | [Source](https://github.com/wangruofeng/diff-viewer) | [Live demo](https://blog.wangruofeng007.com/diff-viewer/) |
-| 🧾 Timestamp Converter | Convert timestamps and dates | [Source](https://github.com/wangruofeng/timestamp-converter) | [Live demo](https://blog.wangruofeng007.com/timestamp-converter/) |
-| 🧾 JSON Viewer | Format and inspect JSON | [Source](https://github.com/wangruofeng/json-viewer) | [Live demo](https://blog.wangruofeng007.com/json-viewer/) |
+| 🗂️ XML Viewer | Format and inspect XML | [Source](https://github.com/wangruofeng/xml-viewer) | [Live demo](https://blog.wangruofeng007.com/xml-viewer/) |
+| 📊 CSV Viewer | Preview, filter, and export CSV | [Source](https://github.com/wangruofeng/csv-viewer) | [Live demo](https://blog.wangruofeng007.com/csv-viewer/) |
+| 📄 YAML Viewer | Format and inspect YAML | [Source](https://github.com/wangruofeng/yaml-viewer) | [Live demo](https://blog.wangruofeng007.com/yaml-viewer/) |
+| 🔄 Data Converter | Convert JSON, YAML, XML, and CSV | [Source](https://github.com/wangruofeng/data-converter) | [Live demo](https://blog.wangruofeng007.com/data-converter/) |
+| ↔️ Diff Viewer | Compare text differences | [Source](https://github.com/wangruofeng/diff-viewer) | [Live demo](https://blog.wangruofeng007.com/diff-viewer/) |
+| ⏱️ Timestamp Converter | Convert timestamps and dates | [Source](https://github.com/wangruofeng/timestamp-converter) | [Live demo](https://blog.wangruofeng007.com/timestamp-converter/) |
+| 🔍 JSON Viewer | Format and inspect JSON | [Source](https://github.com/wangruofeng/json-viewer) | [Live demo](https://blog.wangruofeng007.com/json-viewer/) |
 
 ## Creative & Design
 
