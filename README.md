@@ -40,6 +40,7 @@
 | ⏰ Cron Viewer | Cron 解析与触发时间查看 | [源码](https://github.com/wangruofeng/cron-viewer) | [在线体验](https://blog.wangruofeng007.com/cron-viewer/) |
 | 🖥️ HTML Viewer | HTML 结构预览与编辑 | [源码](https://github.com/wangruofeng/html-viewer) | [在线体验](https://blog.wangruofeng007.com/html-viewer/) |
 | ⚙️ JSON to Code | JSON 生成 TypeScript、Go、Python 代码 | [源码](https://github.com/wangruofeng/json-to-code) | [在线体验](https://blog.wangruofeng007.com/json-to-code/) |
+| 🔡 URL 编解码工具 | URL、HTML 实体、Unicode 转义与 Base64 编解码 | [源码](https://github.com/wangruofeng/url-encode-decoder) | [在线体验](https://blog.wangruofeng007.com/url-encode-decoder/) |
 | 🧠 meta-skill | 面向 AI agent 的思考与审查 skill 集合 | [源码](https://github.com/wangruofeng/meta-skill) | — |
 
 ## 数据与格式

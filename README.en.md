@@ -40,6 +40,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | ⏰ Cron Viewer | Explain cron expressions and next runs | [Source](https://github.com/wangruofeng/cron-viewer) | [Live demo](https://blog.wangruofeng007.com/cron-viewer/) |
 | 🖥️ HTML Viewer | Preview and edit HTML structure | [Source](https://github.com/wangruofeng/html-viewer) | [Live demo](https://blog.wangruofeng007.com/html-viewer/) |
 | ⚙️ JSON to Code | Generate TypeScript, Go, and Python from JSON | [Source](https://github.com/wangruofeng/json-to-code) | [Live demo](https://blog.wangruofeng007.com/json-to-code/) |
+| 🔡 URL Encode Decoder | Encode and decode URL, HTML entities, Unicode escapes, and Base64 | [Source](https://github.com/wangruofeng/url-encode-decoder) | [Live demo](https://blog.wangruofeng007.com/url-encode-decoder/) |
 | 🧠 meta-skill | Skills for AI-agent reasoning and review | [Source](https://github.com/wangruofeng/meta-skill) | — |
 
 ## Data & Formats

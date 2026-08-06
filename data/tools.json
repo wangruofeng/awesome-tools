@@ -40,6 +40,7 @@
     "qr-tool": "https://blog.wangruofeng007.com/qr-tool/favicon.svg",
     "file-hash": "https://blog.wangruofeng007.com/file-hash/favicon.svg",
     "unicode-lookup": "https://blog.wangruofeng007.com/unicode-lookup/favicon.svg",
+    "url-encode-decoder": "https://blog.wangruofeng007.com/url-encode-decoder/favicon.svg",
     "id-card": "https://blog.wangruofeng007.com/id-card/favicon.svg",
     "tax-calc": "https://blog.wangruofeng007.com/tax-calc/favicon.svg",
     "mortgage-calc": "https://blog.wangruofeng007.com/mortgage-calc/favicon.svg",
@@ -437,6 +438,23 @@
       },
       "source": "https://github.com/wangruofeng/data-converter",
       "demo": "https://blog.wangruofeng007.com/data-converter/"
+    },
+    {
+      "id": "url-encode-decoder",
+      "icon": "🔡",
+      "category": "developer",
+      "name": {
+        "zh-CN": "URL 编解码工具",
+        "zh-TW": "URL 編解碼工具",
+        "en": "URL Encode Decoder"
+      },
+      "description": {
+        "zh-CN": "URL、HTML 实体、Unicode 转义与 Base64 编解码",
+        "zh-TW": "URL、HTML 實體、Unicode 轉義與 Base64 編解碼",
+        "en": "Encode and decode URL, HTML entities, Unicode escapes, and Base64"
+      },
+      "source": "https://github.com/wangruofeng/url-encode-decoder",
+      "demo": "https://blog.wangruofeng007.com/url-encode-decoder/"
     },
     {
       "id": "diff-viewer",
