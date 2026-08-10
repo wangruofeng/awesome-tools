@@ -13,7 +13,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | 🧮 Tax Calculator | Calculate Chinese individual income tax and annual bonuses | [Source](https://github.com/wangruofeng/tax-calc) | [Live demo](https://blog.wangruofeng007.com/tax-calc/) |
 | 🏠 Mortgage Calculator | Calculate mortgage repayments and early repayments | [Source](https://github.com/wangruofeng/mortgage-calc) | [Live demo](https://blog.wangruofeng007.com/mortgage-calc/) |
 | 💴 RMB Words | Convert amounts between numbers and uppercase RMB words | [Source](https://github.com/wangruofeng/rmb-words) | [Live demo](https://blog.wangruofeng007.com/rmb-words/) |
-| 😀 Emoji Picker | Search, inspect, and copy emoji in multiple languages | [Source](https://github.com/wangruofeng/emoji-picker) | [Live demo](https://blog.wangruofeng007.com/emoji-picker/) |
+| 😀 Emoji Picker | Search, inspect, and copy emoji in multiple languages | [Source](https://github.com/wangruofeng/emoji-picker) | [Live demo](https://emoji-picker.wangruofeng007.com/) |
 | 🌍 Country Info | Look up country and region details in multiple languages | [Source](https://github.com/wangruofeng/country-info) | [Live demo](https://blog.wangruofeng007.com/country-info/) |
 | 📅 lunar-birthday-reminder | Lunar birthday manager and reminder app with multiple implementations | [Source](https://github.com/wangruofeng/lunar-birthday-reminder) | [Live demo](https://blog.wangruofeng007.com/lunar-birthday-reminder/) |
 

@@ -13,7 +13,7 @@
 | 🧮 個稅計算機 | 中國個人所得稅與年終獎試算 | [原始碼](https://github.com/wangruofeng/tax-calc) | [線上體驗](https://blog.wangruofeng007.com/tax-calc/) |
 | 🏠 房貸計算機 | 房貸還款與提前還款試算 | [原始碼](https://github.com/wangruofeng/mortgage-calc) | [線上體驗](https://blog.wangruofeng007.com/mortgage-calc/) |
 | 💴 金額大寫轉換 | 人民幣數字與大寫金額雙向轉換 | [原始碼](https://github.com/wangruofeng/rmb-words) | [線上體驗](https://blog.wangruofeng007.com/rmb-words/) |
-| 😀 Emoji Picker | 多語言 Emoji 搜尋、詳情查看與複製 | [原始碼](https://github.com/wangruofeng/emoji-picker) | [線上體驗](https://blog.wangruofeng007.com/emoji-picker/) |
+| 😀 Emoji Picker | 多語言 Emoji 搜尋、詳情查看與複製 | [原始碼](https://github.com/wangruofeng/emoji-picker) | [線上體驗](https://emoji-picker.wangruofeng007.com/) |
 | 🌍 Country Info | 多語言國家與地區資訊速查 | [原始碼](https://github.com/wangruofeng/country-info) | [線上體驗](https://blog.wangruofeng007.com/country-info/) |
 | 📅 lunar-birthday-reminder | 農曆生日管理與提醒應用，支援多套實作 | [原始碼](https://github.com/wangruofeng/lunar-birthday-reminder) | [線上體驗](https://blog.wangruofeng007.com/lunar-birthday-reminder/) |
 

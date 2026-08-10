@@ -45,7 +45,7 @@
     "tax-calc": "https://blog.wangruofeng007.com/tax-calc/favicon.svg",
     "mortgage-calc": "https://blog.wangruofeng007.com/mortgage-calc/favicon.svg",
     "rmb-words": "https://blog.wangruofeng007.com/rmb-words/favicon.svg",
-    "emoji-picker": "https://blog.wangruofeng007.com/emoji-picker/favicon.svg",
+    "emoji-picker": "https://emoji-picker.wangruofeng007.com/favicon.svg",
     "country-info": "https://blog.wangruofeng007.com/country-info/favicon.svg",
     "port-list": "https://blog.wangruofeng007.com/port-list/favicon.svg",
     "css-unit-converter": "https://blog.wangruofeng007.com/css-unit-converter/favicon.svg",
@@ -216,7 +216,7 @@
         "en": "Search, inspect, and copy emoji in multiple languages"
       },
       "source": "https://github.com/wangruofeng/emoji-picker",
-      "demo": "https://blog.wangruofeng007.com/emoji-picker/"
+      "demo": "https://emoji-picker.wangruofeng007.com/"
     },
     {
       "id": "country-info",

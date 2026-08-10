@@ -186,12 +186,12 @@ html.dark .tool-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,.5); }
 
 .tool-main { min-height: 96px; padding: 16px 18px; display: flex; gap: 14px; align-items: flex-start; }
 .tool-icon {
-  width: 34px; height: 34px; display: grid; place-items: center; flex: none;
+  width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; flex: none;
   border: 1px solid var(--border); border-radius: 8px; background: var(--bg);
   color: var(--accent); font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 15px; font-weight: 700; overflow: hidden;
 }
-.tool-icon img { width: 22px; height: 22px; display: block; transform: translateX(1px); }
+.tool-icon img { width: 22px; height: 22px; display: block; object-fit: contain; object-position: center; }
 .tool-text { min-width: 0; flex: 1; }
 .tool-text h3 { margin: 0 0 3px; font-size: 15px; line-height: 1.35; display: flex; align-items: center; gap: 7px; }
 .tool-text h3 .tool-name { min-width: 0; }
