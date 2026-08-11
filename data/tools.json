@@ -46,6 +46,7 @@
     "mortgage-calc": "https://blog.wangruofeng007.com/mortgage-calc/favicon.svg",
     "rmb-words": "https://blog.wangruofeng007.com/rmb-words/favicon.svg",
     "emoji-picker": "https://emoji-picker.wangruofeng007.com/favicon.svg",
+    "unicode-picker": "https://blog.wangruofeng007.com/unicode-picker/favicon.svg",
     "country-info": "https://blog.wangruofeng007.com/country-info/favicon.svg",
     "port-list": "https://blog.wangruofeng007.com/port-list/favicon.svg",
     "css-unit-converter": "https://blog.wangruofeng007.com/css-unit-converter/favicon.svg",
@@ -217,6 +218,23 @@
       },
       "source": "https://github.com/wangruofeng/emoji-picker",
       "demo": "https://emoji-picker.wangruofeng007.com/"
+    },
+    {
+      "id": "unicode-picker",
+      "icon": "✦",
+      "category": "daily",
+      "name": {
+        "zh-CN": "Unicode 符号选择器",
+        "zh-TW": "Unicode 符號選擇器",
+        "en": "Unicode Symbol Picker"
+      },
+      "description": {
+        "zh-CN": "Unicode 符号搜索、编码查看与复制",
+        "zh-TW": "Unicode 符號搜尋、編碼查看與複製",
+        "en": "Search, inspect, and copy Unicode symbols"
+      },
+      "source": "https://github.com/wangruofeng/unicode-picker",
+      "demo": "https://blog.wangruofeng007.com/unicode-picker/"
     },
     {
       "id": "country-info",

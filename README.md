@@ -14,6 +14,7 @@
 | 🏠 房贷计算器 | 房贷还款与提前还款测算 | [源码](https://github.com/wangruofeng/mortgage-calc) | [在线体验](https://blog.wangruofeng007.com/mortgage-calc/) |
 | 💴 金额大写转换 | 人民币数字与大写金额双向转换 | [源码](https://github.com/wangruofeng/rmb-words) | [在线体验](https://blog.wangruofeng007.com/rmb-words/) |
 | 😀 Emoji Picker | 多语言 Emoji 搜索、详情查看与复制 | [源码](https://github.com/wangruofeng/emoji-picker) | [在线体验](https://emoji-picker.wangruofeng007.com/) |
+| ✦ Unicode 符号选择器 | Unicode 符号搜索、编码查看与复制 | [源码](https://github.com/wangruofeng/unicode-picker) | [在线体验](https://blog.wangruofeng007.com/unicode-picker/) |
 | 🌍 Country Info | 多语言国家与地区信息速查 | [源码](https://github.com/wangruofeng/country-info) | [在线体验](https://blog.wangruofeng007.com/country-info/) |
 | 📅 lunar-birthday-reminder | 农历生日管理与提醒应用，支持多套实现 | [源码](https://github.com/wangruofeng/lunar-birthday-reminder) | [在线体验](https://blog.wangruofeng007.com/lunar-birthday-reminder/) |
 
