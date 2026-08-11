@@ -66,6 +66,7 @@
     "github-course": "https://github-course.wangruofeng007.com/favicon.svg",
     "word-root-workshop": null,
     "svg-learning": "https://blog.wangruofeng007.com/svg-learning/favicon.svg",
+    "learn-threejs": "https://blog.wangruofeng007.com/learn-threejs/favicon.svg",
     "web-animation": "https://web-animation.wangruofeng007.com/favicon.svg",
     "learnui": "https://learnui.wangruofeng007.com/favicon.png",
     "animation-playground": "https://playground.wangruofeng007.com/favicon.svg",
@@ -575,6 +576,23 @@
       },
       "source": "https://github.com/wangruofeng/svg-learning",
       "demo": "https://blog.wangruofeng007.com/svg-learning/"
+    },
+    {
+      "id": "learn-threejs",
+      "icon": "🧊",
+      "category": "learning",
+      "name": {
+        "zh-CN": "Three.js 学习乐园",
+        "zh-TW": "Three.js 學習樂園",
+        "en": "Three.js Learning Playground"
+      },
+      "description": {
+        "zh-CN": "循序渐进的 Three.js 互动学习 demo 合集",
+        "zh-TW": "循序漸進的 Three.js 互動學習 demo 合集",
+        "en": "Progressive interactive Three.js learning demos"
+      },
+      "source": "https://github.com/wangruofeng/learn-threejs",
+      "demo": "https://blog.wangruofeng007.com/learn-threejs/"
     },
     {
       "id": "web-animation",

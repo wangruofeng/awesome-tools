@@ -27,6 +27,7 @@
 | 🧭 GitHub Course | 透過程式碼解讀開源專案的中英文課程 | [原始碼](https://github.com/wangruofeng/github-course) | [線上體驗](https://github-course.wangruofeng007.com/) |
 | 📖 Word Root Workshop | 透過字根、字首與字尾學習英語詞彙 | [原始碼](https://github.com/wangruofeng/word-root-workshop) | [線上體驗](https://blog.wangruofeng007.com/word-root-workshop/) |
 | 📐 SVG Learning | 從基礎語法到生產實務的互動式 SVG 指南 | [原始碼](https://github.com/wangruofeng/svg-learning) | [線上體驗](https://blog.wangruofeng007.com/svg-learning/) |
+| 🧊 Three.js 學習樂園 | 循序漸進的 Three.js 互動學習 demo 合集 | [原始碼](https://github.com/wangruofeng/learn-threejs) | [線上體驗](https://blog.wangruofeng007.com/learn-threejs/) |
 | 🧩 Name That UI | 中英雙語 UI 視覺詞典與提示詞助手 | [原始碼](https://github.com/wangruofeng/learnui) | [線上體驗](https://learnui.wangruofeng007.com/) |
 
 ## 開發工具
