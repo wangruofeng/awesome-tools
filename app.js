@@ -169,9 +169,15 @@ function setTheme(dark) {
 }
 
 /* ---------- 静态文案 ---------- */
+const PAGE_TITLES = {
+  'zh-CN': 'Awesome Tools · 在线工具合集 — 开源实用工具导航',
+  'zh-TW': 'Awesome Tools · 線上工具合集 — 開源實用工具導航',
+  en: 'Awesome Tools · Open-source Online Tools Collection'
+};
+
 function renderControls() {
   document.documentElement.lang = state.language;
-  document.title = `Awesome Tools · ${text().subtitle}`;
+  document.title = PAGE_TITLES[state.language] || PAGE_TITLES['zh-CN'];
   $('#appSub').textContent = text().subtitle;
   $('#search').placeholder = text().search;
   $('#clearSearch').title = text().clearSearch;
