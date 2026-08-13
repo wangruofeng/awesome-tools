@@ -22,12 +22,11 @@
 
 | 项目名称 | 项目简介 | 项目源码 | 在线体验 |
 | --- | --- | --- | --- |
-| 🔤 Unicode 速查 | Unicode 字符查询与编码转换 | [源码](https://github.com/wangruofeng/unicode-lookup) | [在线体验](https://blog.wangruofeng007.com/unicode-lookup/) |
 | 📚 LLM Terms Workshop | 30 个核心大语言模型概念学习 | [源码](https://github.com/wangruofeng/big-model-terms) | [在线体验](https://blog.wangruofeng007.com/big-model-terms/) |
 | 🧭 GitHub Course | 通过代码解读开源项目的中英文课程 | [源码](https://github.com/wangruofeng/github-course) | [在线体验](https://github-course.wangruofeng007.com/) |
 | 📖 Word Root Workshop | 通过词根、前缀和后缀学习英语词汇 | [源码](https://github.com/wangruofeng/word-root-workshop) | [在线体验](https://blog.wangruofeng007.com/word-root-workshop/) |
 | 📐 SVG Learning | 从基础语法到生产实践的交互式 SVG 指南 | [源码](https://github.com/wangruofeng/svg-learning) | [在线体验](https://blog.wangruofeng007.com/svg-learning/) |
-| 🧊 Three.js 学习乐园 | 循序渐进的 Three.js 互动学习 demo 合集 | [源码](https://github.com/wangruofeng/learn-threejs) | [在线体验](https://blog.wangruofeng007.com/learn-threejs/) |
+| 🧊 Three.js 学习 | 循序渐进的 Three.js 互动学习 demo 合集 | [源码](https://github.com/wangruofeng/learn-threejs) | [在线体验](https://blog.wangruofeng007.com/learn-threejs/) |
 | 🧩 Name That UI | 中英双语 UI 视觉词典与提示词助手 | [源码](https://github.com/wangruofeng/learnui) | [在线体验](https://learnui.wangruofeng007.com/) |
 
 ## 开发工具

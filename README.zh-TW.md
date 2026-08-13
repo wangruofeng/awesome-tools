@@ -22,7 +22,6 @@
 
 | 專案名稱 | 專案簡介 | 專案原始碼 | 線上體驗 |
 | --- | --- | --- | --- |
-| 🔤 Unicode 速查 | Unicode 字元查詢與編碼轉換 | [原始碼](https://github.com/wangruofeng/unicode-lookup) | [線上體驗](https://blog.wangruofeng007.com/unicode-lookup/) |
 | 📚 LLM Terms Workshop | 學習 30 個核心大型語言模型概念 | [原始碼](https://github.com/wangruofeng/big-model-terms) | [線上體驗](https://blog.wangruofeng007.com/big-model-terms/) |
 | 🧭 GitHub Course | 透過程式碼解讀開源專案的中英文課程 | [原始碼](https://github.com/wangruofeng/github-course) | [線上體驗](https://github-course.wangruofeng007.com/) |
 | 📖 Word Root Workshop | 透過字根、字首與字尾學習英語詞彙 | [原始碼](https://github.com/wangruofeng/word-root-workshop) | [線上體驗](https://blog.wangruofeng007.com/word-root-workshop/) |

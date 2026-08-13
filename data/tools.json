@@ -39,7 +39,6 @@
   "favicons": {
     "qr-tool": "https://blog.wangruofeng007.com/qr-tool/favicon.svg",
     "file-hash": "https://blog.wangruofeng007.com/file-hash/favicon.svg",
-    "unicode-lookup": "https://blog.wangruofeng007.com/unicode-lookup/favicon.svg",
     "url-encode-decoder": "https://blog.wangruofeng007.com/url-encode-decoder/favicon.svg",
     "id-card": "https://blog.wangruofeng007.com/id-card/favicon.svg",
     "tax-calc": "https://blog.wangruofeng007.com/tax-calc/favicon.svg",
@@ -117,23 +116,6 @@
       },
       "source": "https://github.com/wangruofeng/file-hash",
       "demo": "https://blog.wangruofeng007.com/file-hash/"
-    },
-    {
-      "id": "unicode-lookup",
-      "icon": "🔤",
-      "category": "learning",
-      "name": {
-        "zh-CN": "Unicode 速查",
-        "zh-TW": "Unicode 速查",
-        "en": "Unicode Lookup"
-      },
-      "description": {
-        "zh-CN": "Unicode 字符查询与编码转换",
-        "zh-TW": "Unicode 字元查詢與編碼轉換",
-        "en": "Look up Unicode characters and convert encodings"
-      },
-      "source": "https://github.com/wangruofeng/unicode-lookup",
-      "demo": "https://blog.wangruofeng007.com/unicode-lookup/"
     },
     {
       "id": "id-card",
@@ -582,9 +564,9 @@
       "icon": "🧊",
       "category": "learning",
       "name": {
-        "zh-CN": "Three.js 学习乐园",
+        "zh-CN": "Three.js 学习",
         "zh-TW": "Three.js 學習樂園",
-        "en": "Three.js Learning Playground"
+        "en": "Learn Three.js"
       },
       "description": {
         "zh-CN": "循序渐进的 Three.js 互动学习 demo 合集",
