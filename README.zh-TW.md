@@ -28,6 +28,7 @@
 | 📐 SVG Learning | 從基礎語法到生產實務的互動式 SVG 指南 | [原始碼](https://github.com/wangruofeng/svg-learning) | [線上體驗](https://blog.wangruofeng007.com/svg-learning/) |
 | 🧊 Three.js 學習樂園 | 循序漸進的 Three.js 互動學習 demo 合集 | [原始碼](https://github.com/wangruofeng/learn-threejs) | [線上體驗](https://blog.wangruofeng007.com/learn-threejs/) |
 | 🧩 Name That UI | 中英雙語 UI 視覺詞典與提示詞助手 | [原始碼](https://github.com/wangruofeng/learnui) | [線上體驗](https://learnui.wangruofeng007.com/) |
+| ▶️ youtube-digest | 將 YouTube 影片轉化為深度學習資源，支援字幕、雙語翻譯、AI 概覽、講解與筆記 | [原始碼](https://github.com/wangruofeng/youtube-digest) | — |
 
 ## 開發工具
 

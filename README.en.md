@@ -28,6 +28,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | 📐 SVG Learning | Interactive SVG guide from syntax to production | [Source](https://github.com/wangruofeng/svg-learning) | [Live demo](https://blog.wangruofeng007.com/svg-learning/) |
 | 🧊 Learn Three.js | Progressive interactive Three.js learning demos | [Source](https://github.com/wangruofeng/learn-threejs) | [Live demo](https://blog.wangruofeng007.com/learn-threejs/) |
 | 🧩 Name That UI | Bilingual UI visual dictionary and prompt assistant | [Source](https://github.com/wangruofeng/learnui) | [Live demo](https://learnui.wangruofeng007.com/) |
+| ▶️ youtube-digest | Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes | [Source](https://github.com/wangruofeng/youtube-digest) | — |
 
 ## Development
 

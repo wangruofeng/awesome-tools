@@ -77,6 +77,7 @@
     "img-compress": "https://img-compress.wangruofeng007.com/assets/favicon-B8fYpGsj.svg",
     "lunar-birthday-reminder": null,
     "youtube-live-translate": "https://github.githubassets.com/favicons/favicon.svg",
+    "youtube-digest": "https://github.githubassets.com/favicons/favicon.svg",
     "ftp-server": "https://github.githubassets.com/favicons/favicon.svg",
     "easy-ftp": "https://github.githubassets.com/favicons/favicon.svg",
     "text-snap": "https://github.githubassets.com/favicons/favicon.svg",
@@ -759,6 +760,22 @@
         "en": "Real-time YouTube livestream translation tool"
       },
       "source": "https://github.com/wangruofeng/youtube-live-translate"
+    },
+    {
+      "id": "youtube-digest",
+      "icon": "▶️",
+      "category": "learning",
+      "name": {
+        "zh-CN": "youtube-digest",
+        "zh-TW": "youtube-digest",
+        "en": "youtube-digest"
+      },
+      "description": {
+        "zh-CN": "将 YouTube 视频转化为深度学习资源，支持字幕、双语翻译、AI 概览、讲解与笔记",
+        "zh-TW": "將 YouTube 影片轉化為深度學習資源，支援字幕、雙語翻譯、AI 概覽、講解與筆記",
+        "en": "Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes"
+      },
+      "source": "https://github.com/wangruofeng/youtube-digest"
     },
     {
       "id": "ftp-server",
