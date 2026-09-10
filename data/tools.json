@@ -70,6 +70,7 @@
     "learnui": "https://learnui.wangruofeng007.com/favicon.png",
     "animation-playground": "https://playground.wangruofeng007.com/favicon.svg",
     "meta-skill": "https://github.githubassets.com/favicons/favicon.svg",
+    "skillctl": "https://github.githubassets.com/favicons/favicon.svg",
     "vecsy": "https://vecsy.top/favicon.svg?v=9f832763",
     "newsnow": "https://newsnow.wangruofeng007.com/icon.svg",
     "simple-gemini-cli": "https://github.githubassets.com/favicons/favicon.svg",
@@ -643,6 +644,22 @@
         "en": "Skills for AI-agent reasoning and review"
       },
       "source": "https://github.com/wangruofeng/meta-skill"
+    },
+    {
+      "id": "skillctl",
+      "icon": "🎛️",
+      "category": "developer",
+      "name": {
+        "zh-CN": "skillctl",
+        "zh-TW": "skillctl",
+        "en": "skillctl"
+      },
+      "description": {
+        "zh-CN": "Claude Skills 控制中心：初始化项目环境、同步跨平台配置、快速安装第三方 Skill",
+        "zh-TW": "Claude Skills 控制中心：初始化專案環境、同步跨平台設定、快速安裝第三方 Skill",
+        "en": "Claude Skills control center for env init, config sync, and third-party skill installs"
+      },
+      "source": "https://github.com/wangruofeng/skillctl"
     },
     {
       "id": "vecsy",

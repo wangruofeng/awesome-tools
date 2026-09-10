@@ -44,6 +44,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | ⚙️ JSON to Code | Generate TypeScript, Go, and Python from JSON | [Source](https://github.com/wangruofeng/json-to-code) | [Live demo](https://blog.wangruofeng007.com/json-to-code/) |
 | 🔡 URL Encode Decoder | Encode and decode URL, HTML entities, Unicode escapes, and Base64 | [Source](https://github.com/wangruofeng/url-encode-decoder) | [Live demo](https://blog.wangruofeng007.com/url-encode-decoder/) |
 | 🧠 meta-skill | Skills for AI-agent reasoning and review | [Source](https://github.com/wangruofeng/meta-skill) | — |
+| 🎛️ skillctl | Claude Skills control center for env init, config sync, and third-party skill installs | [Source](https://github.com/wangruofeng/skillctl) | — |
 
 ## Data & Formats
 
