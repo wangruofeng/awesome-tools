@@ -67,6 +67,7 @@
 | 🎞️ Animation Playground | 140+ 个 CSS、SVG 和 Canvas 动画效果合集 | [源码](https://github.com/wangruofeng/animation-playground) | [在线体验](https://playground.wangruofeng007.com) |
 | 🧩 Vecsy | 开源 SVG 编辑器与矢量设计工作室 | [源码](https://github.com/wangruofeng/vecsy) | [在线体验](https://vecsy.top/) |
 | 🗜️ ImgCompress | 安全、快速、完全基于浏览器的图像压缩工具 | [源码](https://github.com/wangruofeng/img-compress) | [在线体验](https://img-compress.wangruofeng007.com/) |
+| 🖼️ MD2Img | Markdown 一键生成小红书系列图文卡片，自动分页、九套配色、实时预览与导出 | [源码](https://github.com/wangruofeng/md2img) | [在线体验](https://md2img.wangruofeng007.com/) |
 
 ## AI 与效率
 

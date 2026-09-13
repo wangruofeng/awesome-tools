@@ -76,6 +76,7 @@
     "simple-gemini-cli": "https://github.githubassets.com/favicons/favicon.svg",
     "feishu2wx": "https://feishu2wx.wangruofeng007.com/favicon.svg",
     "img-compress": "https://img-compress.wangruofeng007.com/assets/favicon-B8fYpGsj.svg",
+    "md2img": "https://md2img.wangruofeng007.com/favicon.svg",
     "lunar-birthday-reminder": null,
     "youtube-live-translate": "https://github.githubassets.com/favicons/favicon.svg",
     "youtube-digest": "https://github.githubassets.com/favicons/favicon.svg",
@@ -744,6 +745,23 @@
       },
       "source": "https://github.com/wangruofeng/img-compress",
       "demo": "https://img-compress.wangruofeng007.com/"
+    },
+    {
+      "id": "md2img",
+      "icon": "🖼️",
+      "category": "creative",
+      "name": {
+        "zh-CN": "MD2Img",
+        "zh-TW": "MD2Img",
+        "en": "MD2Img"
+      },
+      "description": {
+        "zh-CN": "Markdown 一键生成小红书系列图文卡片，自动分页、九套配色、实时预览与导出",
+        "zh-TW": "Markdown 一鍵生成小紅書系列圖文卡片，自動分頁、九套配色、即時預覽與匯出",
+        "en": "Turn Markdown into ready-to-post Xiaohongshu card images with automatic pagination, themes, live preview, and export"
+      },
+      "source": "https://github.com/wangruofeng/md2img",
+      "demo": "https://md2img.wangruofeng007.com/"
     },
     {
       "id": "lunar-birthday-reminder",
