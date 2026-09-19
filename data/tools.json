@@ -461,6 +461,23 @@
       "demo": "https://blog.wangruofeng007.com/url-encode-decoder/"
     },
     {
+      "id": "ai-models",
+      "icon": "🤖",
+      "category": "developer",
+      "name": {
+        "zh-CN": "AI 模型目录",
+        "zh-TW": "AI 模型目錄",
+        "en": "AI Model Catalog"
+      },
+      "description": {
+        "zh-CN": "按提供商浏览与筛选 AI 大模型，速查上下文窗口与价格",
+        "zh-TW": "按提供商瀏覽與篩選 AI 大模型，速查上下文視窗與價格",
+        "en": "Browse and filter AI models by provider with context windows and pricing"
+      },
+      "source": "https://github.com/wangruofeng/ai-models",
+      "demo": "https://blog.wangruofeng007.com/ai-models/"
+    },
+    {
       "id": "diff-viewer",
       "icon": "↔️",
       "category": "data",

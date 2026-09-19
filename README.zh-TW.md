@@ -43,6 +43,7 @@
 | 🖥️ HTML Viewer | HTML 結構預覽與編輯 | [原始碼](https://github.com/wangruofeng/html-viewer) | [線上體驗](https://blog.wangruofeng007.com/html-viewer/) |
 | ⚙️ JSON to Code | JSON 生成 TypeScript、Go、Python 程式碼 | [原始碼](https://github.com/wangruofeng/json-to-code) | [線上體驗](https://blog.wangruofeng007.com/json-to-code/) |
 | 🔡 URL 編解碼工具 | URL、HTML 實體、Unicode 轉義與 Base64 編解碼 | [原始碼](https://github.com/wangruofeng/url-encode-decoder) | [線上體驗](https://blog.wangruofeng007.com/url-encode-decoder/) |
+| 🤖 AI 模型目錄 | 按提供商瀏覽與篩選 AI 大模型，速查上下文視窗與價格 | [原始碼](https://github.com/wangruofeng/ai-models) | [線上體驗](https://blog.wangruofeng007.com/ai-models/) |
 | 🧠 meta-skill | 面向 AI agent 的思考與審查 skill 集合 | [原始碼](https://github.com/wangruofeng/meta-skill) | — |
 | 🎛️ skillctl | Claude Skills 控制中心：初始化專案環境、同步跨平台設定、快速安裝第三方 Skill | [原始碼](https://github.com/wangruofeng/skillctl) | — |
 
