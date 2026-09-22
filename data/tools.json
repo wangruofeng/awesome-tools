@@ -77,6 +77,7 @@
     "feishu2wx": "https://feishu2wx.wangruofeng007.com/favicon.svg",
     "img-compress": "https://img-compress.wangruofeng007.com/assets/favicon-B8fYpGsj.svg",
     "md2img": "https://md2img.wangruofeng007.com/favicon.svg",
+    "prompts-collect": "https://gpt-image.wangruofeng007.com/favicon.svg",
     "lunar-birthday-reminder": null,
     "youtube-live-translate": "https://github.githubassets.com/favicons/favicon.svg",
     "youtube-digest": "https://github.githubassets.com/favicons/favicon.svg",
@@ -779,6 +780,23 @@
       },
       "source": "https://github.com/wangruofeng/md2img",
       "demo": "https://md2img.wangruofeng007.com/"
+    },
+    {
+      "id": "prompts-collect",
+      "icon": "✨",
+      "category": "creative",
+      "name": {
+        "zh-CN": "AI 生图提示词库",
+        "zh-TW": "AI 生圖提示詞庫",
+        "en": "AI Image Prompt Library"
+      },
+      "description": {
+        "zh-CN": "精选 AI 生图风格提示词与样张，支持搜索、筛选与一键复制",
+        "zh-TW": "精選 AI 生圖風格提示詞與樣張，支援搜尋、篩選與一鍵複製",
+        "en": "Curated AI image style prompts with sample images, search, filters, and one-click copy"
+      },
+      "source": "https://github.com/wangruofeng/prompts-collect",
+      "demo": "https://gpt-image.wangruofeng007.com/"
     },
     {
       "id": "lunar-birthday-reminder",

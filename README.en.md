@@ -69,6 +69,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | 🧩 Vecsy | Open-source SVG editor and vector design studio | [Source](https://github.com/wangruofeng/vecsy) | [Live demo](https://vecsy.top/) |
 | 🗜️ ImgCompress | Safe, fast, fully browser-based image compression tool | [Source](https://github.com/wangruofeng/img-compress) | [Live demo](https://img-compress.wangruofeng007.com/) |
 | 🖼️ MD2Img | Turn Markdown into ready-to-post Xiaohongshu card images with automatic pagination, themes, live preview, and export | [Source](https://github.com/wangruofeng/md2img) | [Live demo](https://md2img.wangruofeng007.com/) |
+| ✨ AI Image Prompt Library | Curated AI image style prompts with sample images, search, filters, and one-click copy | [Source](https://github.com/wangruofeng/prompts-collect) | [Live demo](https://gpt-image.wangruofeng007.com/) |
 
 ## AI & Productivity
 

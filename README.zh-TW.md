@@ -69,6 +69,7 @@
 | 🧩 Vecsy | 開源 SVG 編輯器與向量設計工作室 | [原始碼](https://github.com/wangruofeng/vecsy) | [線上體驗](https://vecsy.top/) |
 | 🗜️ ImgCompress | 安全、快速、完全基於瀏覽器的圖像壓縮工具 | [原始碼](https://github.com/wangruofeng/img-compress) | [線上體驗](https://img-compress.wangruofeng007.com/) |
 | 🖼️ MD2Img | Markdown 一鍵生成小紅書系列圖文卡片，自動分頁、九套配色、即時預覽與匯出 | [原始碼](https://github.com/wangruofeng/md2img) | [線上體驗](https://md2img.wangruofeng007.com/) |
+| ✨ AI 生圖提示詞庫 | 精選 AI 生圖風格提示詞與樣張，支援搜尋、篩選與一鍵複製 | [原始碼](https://github.com/wangruofeng/prompts-collect) | [線上體驗](https://gpt-image.wangruofeng007.com/) |
 
 ## AI 與效率
 
