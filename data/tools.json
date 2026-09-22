@@ -795,7 +795,6 @@
         "zh-TW": "精選 AI 生圖風格提示詞與樣張，支援搜尋、篩選與一鍵複製",
         "en": "Curated AI image style prompts with sample images, search, filters, and one-click copy"
       },
-      "source": "https://github.com/wangruofeng/prompts-collect",
       "demo": "https://gpt-image.wangruofeng007.com/"
     },
     {

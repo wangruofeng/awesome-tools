@@ -93,16 +93,21 @@ function createTool(tool) {
     toast(favored ? text().favOff(name) : text().favOn(name));
     render();
   });
-  const source = node.querySelector('.source'); source.href = tool.source; source.textContent = text().source;
+  const source = node.querySelector('.source');
+  if (tool.source) {
+    source.href = tool.source; source.textContent = text().source;
+    source.addEventListener('click', () => recordUse(tool.id));
+  } else {
+    source.remove();
+  }
   const demo = node.querySelector('.demo');
   if (tool.demo) {
     demo.href = tool.demo; demo.textContent = text().demo;
     demo.addEventListener('click', () => recordUse(tool.id));
   } else {
     demo.remove();
-    source.parentElement.classList.add('source-only');
+    if (tool.source) source.parentElement.classList.add('source-only');
   }
-  source.addEventListener('click', () => recordUse(tool.id));
   return card;
 }
 

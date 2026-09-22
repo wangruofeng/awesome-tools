@@ -11,7 +11,7 @@ function makeReadme(lang) {
   const nav = `[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)`;
   const sections = Object.entries(data.categories).map(([id, category]) => {
     const rows = data.tools.filter(tool => tool.category === id).map(tool =>
-      `| ${tool.icon} ${tool.name[lang.code]} | ${tool.description[lang.code]} | [${lang.source}](${tool.source}) | ${tool.demo ? `[${lang.demo}](${tool.demo})` : '—'} |`
+      `| ${tool.icon} ${tool.name[lang.code]} | ${tool.description[lang.code]} | ${tool.source ? `[${lang.source}](${tool.source})` : '—'} | ${tool.demo ? `[${lang.demo}](${tool.demo})` : '—'} |`
     );
     return `## ${category[lang.code]}\n\n| ${lang.labels.join(' | ')} |\n| --- | --- | --- | --- |\n${rows.join('\n')}`;
   });

@@ -27,7 +27,10 @@ function renderCards() {
       const demo = tool.demo
         ? `<a class="demo" href="${escapeAttr(tool.demo)}" target="_blank" rel="noopener">${labels.demo}</a>`
         : '';
-      const sourceOnly = tool.demo ? '' : ' source-only';
+      const source = tool.source
+        ? `<a class="source" href="${escapeAttr(tool.source)}" target="_blank" rel="noopener">${labels.source}</a>`
+        : '';
+      const sourceOnly = !tool.demo && tool.source ? ' source-only' : '';
       return [
         '      <article class="tool-card">',
         '        <div class="tool-main">',
@@ -37,7 +40,7 @@ function renderCards() {
         `            <p>${escapeHtml(tool.description[LANG])}</p>`,
         '          </div>',
         '        </div>',
-        `        <div class="tool-links${sourceOnly}">${demo}<a class="source" href="${escapeAttr(tool.source)}" target="_blank" rel="noopener">${labels.source}</a></div>`,
+        `        <div class="tool-links${sourceOnly}">${demo}${source}</div>`,
         '      </article>'
       ].join('\n');
     });
@@ -65,7 +68,7 @@ function renderJsonLd() {
       applicationCategory: 'WebApplication',
       operatingSystem: 'Any',
       ...(tool.demo ? { url: tool.demo } : {}),
-      codeRepository: tool.source,
+      ...(tool.source ? { codeRepository: tool.source } : {}),
       inLanguage: LANG,
       offers: { '@type': 'Offer', price: '0', priceCurrency: 'CNY' }
     }
