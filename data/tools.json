@@ -78,6 +78,9 @@
     "img-compress": "https://img-compress.wangruofeng007.com/assets/favicon-B8fYpGsj.svg",
     "md2img": "https://md2img.wangruofeng007.com/favicon.svg",
     "prompts-collect": "https://gpt-image.wangruofeng007.com/favicon.svg",
+    "chrome-copy": "https://github.githubassets.com/favicons/favicon.svg",
+    "ai-news": "https://github.githubassets.com/favicons/favicon.svg",
+    "fav-deckly": "https://github.githubassets.com/favicons/favicon.svg",
     "lunar-birthday-reminder": null,
     "youtube-live-translate": "https://github.githubassets.com/favicons/favicon.svg",
     "youtube-digest": "https://github.githubassets.com/favicons/favicon.svg",
@@ -795,7 +798,56 @@
         "zh-TW": "精選 AI 生圖風格提示詞與樣張，支援搜尋、篩選與一鍵複製",
         "en": "Curated AI image style prompts with sample images, search, filters, and one-click copy"
       },
+      "source": "https://github.com/wangruofeng/prompts-collect",
       "demo": "https://gpt-image.wangruofeng007.com/"
+    },
+    {
+      "id": "chrome-copy",
+      "icon": "📋",
+      "category": "productivity",
+      "name": {
+        "zh-CN": "X 正文一键复制",
+        "zh-TW": "X 正文一鍵複製",
+        "en": "X Post Copy"
+      },
+      "description": {
+        "zh-CN": "为 X 帖子操作栏添加正文一键复制按钮",
+        "zh-TW": "為 X 貼文操作列加入正文一鍵複製按鈕",
+        "en": "Add a one-click body-copy button to X post action bars"
+      },
+      "source": "https://github.com/wangruofeng/chrome-copy"
+    },
+    {
+      "id": "ai-news",
+      "icon": "🗞️",
+      "category": "productivity",
+      "name": {
+        "zh-CN": "AI 新闻",
+        "zh-TW": "AI 新聞",
+        "en": "AI News"
+      },
+      "description": {
+        "zh-CN": "聚合 RSS、Atom 与 AI 信源的静态资讯站",
+        "zh-TW": "聚合 RSS、Atom 與 AI 信源的靜態資訊站",
+        "en": "Static AI news site aggregating RSS, Atom, and curated sources"
+      },
+      "source": "https://github.com/wangruofeng/ai-news"
+    },
+    {
+      "id": "fav-deckly",
+      "icon": "🔖",
+      "category": "productivity",
+      "name": {
+        "zh-CN": "FavDeckly",
+        "zh-TW": "FavDeckly",
+        "en": "FavDeckly"
+      },
+      "description": {
+        "zh-CN": "可搜索、分类浏览并支持本地收藏的静态网站收藏夹",
+        "zh-TW": "可搜尋、分類瀏覽並支援本機收藏的靜態網站收藏夾",
+        "en": "Searchable, categorized static bookmark collection with local favorites"
+      },
+      "source": "https://github.com/wangruofeng/fav-deckly"
     },
     {
       "id": "lunar-birthday-reminder",

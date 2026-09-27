@@ -69,7 +69,7 @@
 | 🧩 Vecsy | 開源 SVG 編輯器與向量設計工作室 | [原始碼](https://github.com/wangruofeng/vecsy) | [線上體驗](https://vecsy.top/) |
 | 🗜️ ImgCompress | 安全、快速、完全基於瀏覽器的圖像壓縮工具 | [原始碼](https://github.com/wangruofeng/img-compress) | [線上體驗](https://img-compress.wangruofeng007.com/) |
 | 🖼️ MD2Img | Markdown 一鍵生成小紅書系列圖文卡片，自動分頁、九套配色、即時預覽與匯出 | [原始碼](https://github.com/wangruofeng/md2img) | [線上體驗](https://md2img.wangruofeng007.com/) |
-| ✨ AI 生圖提示詞庫 | 精選 AI 生圖風格提示詞與樣張，支援搜尋、篩選與一鍵複製 | — | [線上體驗](https://gpt-image.wangruofeng007.com/) |
+| ✨ AI 生圖提示詞庫 | 精選 AI 生圖風格提示詞與樣張，支援搜尋、篩選與一鍵複製 | [原始碼](https://github.com/wangruofeng/prompts-collect) | [線上體驗](https://gpt-image.wangruofeng007.com/) |
 
 ## AI 與效率
 
@@ -77,6 +77,9 @@
 | --- | --- | --- | --- |
 | 🔧 simple-gemini-cli | Google Gemini API 的簡潔命令列工具 | [原始碼](https://github.com/wangruofeng/simple-gemini-cli) | — |
 | 🔗 Feishu to WeChat | 飛書文件轉微信公眾號排版工具 | [原始碼](https://github.com/wangruofeng/feishu2wx) | [線上體驗](https://feishu2wx.wangruofeng007.com/) |
+| 📋 X 正文一鍵複製 | 為 X 貼文操作列加入正文一鍵複製按鈕 | [原始碼](https://github.com/wangruofeng/chrome-copy) | — |
+| 🗞️ AI 新聞 | 聚合 RSS、Atom 與 AI 信源的靜態資訊站 | [原始碼](https://github.com/wangruofeng/ai-news) | — |
+| 🔖 FavDeckly | 可搜尋、分類瀏覽並支援本機收藏的靜態網站收藏夾 | [原始碼](https://github.com/wangruofeng/fav-deckly) | — |
 | 🎬 youtube-live-translate | YouTube 直播即時翻譯工具 | [原始碼](https://github.com/wangruofeng/youtube-live-translate) | — |
 | 📸 TextSnap | macOS 選單列 OCR 工具，支援本地離線辨識 | [原始碼](https://github.com/wangruofeng/text-snap) | — |
 

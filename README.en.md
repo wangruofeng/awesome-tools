@@ -69,7 +69,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | 🧩 Vecsy | Open-source SVG editor and vector design studio | [Source](https://github.com/wangruofeng/vecsy) | [Live demo](https://vecsy.top/) |
 | 🗜️ ImgCompress | Safe, fast, fully browser-based image compression tool | [Source](https://github.com/wangruofeng/img-compress) | [Live demo](https://img-compress.wangruofeng007.com/) |
 | 🖼️ MD2Img | Turn Markdown into ready-to-post Xiaohongshu card images with automatic pagination, themes, live preview, and export | [Source](https://github.com/wangruofeng/md2img) | [Live demo](https://md2img.wangruofeng007.com/) |
-| ✨ AI Image Prompt Library | Curated AI image style prompts with sample images, search, filters, and one-click copy | — | [Live demo](https://gpt-image.wangruofeng007.com/) |
+| ✨ AI Image Prompt Library | Curated AI image style prompts with sample images, search, filters, and one-click copy | [Source](https://github.com/wangruofeng/prompts-collect) | [Live demo](https://gpt-image.wangruofeng007.com/) |
 
 ## AI & Productivity
 
@@ -77,6 +77,9 @@ A categorized collection of open-source projects and online tools I build, with 
 | --- | --- | --- | --- |
 | 🔧 simple-gemini-cli | Simple command-line tool for the Google Gemini API | [Source](https://github.com/wangruofeng/simple-gemini-cli) | — |
 | 🔗 Feishu to WeChat | Format Feishu documents for WeChat articles | [Source](https://github.com/wangruofeng/feishu2wx) | [Live demo](https://feishu2wx.wangruofeng007.com/) |
+| 📋 X Post Copy | Add a one-click body-copy button to X post action bars | [Source](https://github.com/wangruofeng/chrome-copy) | — |
+| 🗞️ AI News | Static AI news site aggregating RSS, Atom, and curated sources | [Source](https://github.com/wangruofeng/ai-news) | — |
+| 🔖 FavDeckly | Searchable, categorized static bookmark collection with local favorites | [Source](https://github.com/wangruofeng/fav-deckly) | — |
 | 🎬 youtube-live-translate | Real-time YouTube livestream translation tool | [Source](https://github.com/wangruofeng/youtube-live-translate) | — |
 | 📸 TextSnap | macOS menu bar OCR tool with local offline recognition | [Source](https://github.com/wangruofeng/text-snap) | — |
 
