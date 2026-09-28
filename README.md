@@ -17,6 +17,7 @@
 | ✦ Unicode 符号选择器 | Unicode 符号搜索、编码查看与复制 | [源码](https://github.com/wangruofeng/unicode-picker) | [在线体验](https://blog.wangruofeng007.com/unicode-picker/) |
 | 🌍 Country Info | 多语言国家与地区信息速查 | [源码](https://github.com/wangruofeng/country-info) | [在线体验](https://blog.wangruofeng007.com/country-info/) |
 | 📅 lunar-birthday-reminder | 农历生日管理与提醒应用，支持多套实现 | [源码](https://github.com/wangruofeng/lunar-birthday-reminder) | [在线体验](https://blog.wangruofeng007.com/lunar-birthday-reminder/) |
+| 🗺️ 山海有期 | 按国家、城市与出行周探索全球目的地和适游季节 | [源码](https://github.com/wangruofeng/shanhai-youqi) | [在线体验](https://shanhaiyouqi.wangruofeng007.com/) |
 
 ## 学习与知识
 
@@ -70,6 +71,7 @@
 | 🗜️ ImgCompress | 安全、快速、完全基于浏览器的图像压缩工具 | [源码](https://github.com/wangruofeng/img-compress) | [在线体验](https://img-compress.wangruofeng007.com/) |
 | 🖼️ MD2Img | Markdown 一键生成小红书系列图文卡片，自动分页、九套配色、实时预览与导出 | [源码](https://github.com/wangruofeng/md2img) | [在线体验](https://md2img.wangruofeng007.com/) |
 | ✨ AI 生图提示词库 | 精选 AI 生图风格提示词与样张，支持搜索、筛选与一键复制 | [源码](https://github.com/wangruofeng/prompts-collect) | [在线体验](https://gpt-image.wangruofeng007.com/) |
+| 🎵 Mystery Vinyl | 按心情随机播放音乐的交互式黑胶唱机，支持环境音与自定义音源 | [源码](https://github.com/wangruofeng/fm) | [在线体验](https://fm.wangruofeng007.com/) |
 
 ## AI 与效率
 

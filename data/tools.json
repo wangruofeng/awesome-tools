@@ -87,7 +87,9 @@
     "ftp-server": "https://github.githubassets.com/favicons/favicon.svg",
     "easy-ftp": "https://github.githubassets.com/favicons/favicon.svg",
     "text-snap": "https://github.githubassets.com/favicons/favicon.svg",
-    "json-viewer": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='%232563eb'/><stop offset='1' stop-color='%237c3aed'/></linearGradient></defs><rect width='32' height='32' rx='7' fill='url(%23g)'/><text x='16' y='16' text-anchor='middle' dominant-baseline='central' font-family='-apple-system,Segoe UI,Arial,sans-serif' font-size='17' font-weight='700' fill='%23ffffff'>{ }</text></svg>"
+    "json-viewer": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='%232563eb'/><stop offset='1' stop-color='%237c3aed'/></linearGradient></defs><rect width='32' height='32' rx='7' fill='url(%23g)'/><text x='16' y='16' text-anchor='middle' dominant-baseline='central' font-family='-apple-system,Segoe UI,Arial,sans-serif' font-size='17' font-weight='700' fill='%23ffffff'>{ }</text></svg>",
+    "shanhai-youqi": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗺️</text></svg>",
+    "fm": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎵</text></svg>"
   },
   "tools": [
     {
@@ -962,6 +964,40 @@
       },
       "source": "https://github.com/wangruofeng/json-viewer",
       "demo": "https://blog.wangruofeng007.com/json-viewer/"
+    },
+    {
+      "id": "shanhai-youqi",
+      "icon": "🗺️",
+      "category": "daily",
+      "name": {
+        "zh-CN": "山海有期",
+        "zh-TW": "山海有期",
+        "en": "Shanhai Youqi"
+      },
+      "description": {
+        "zh-CN": "按国家、城市与出行周探索全球目的地和适游季节",
+        "zh-TW": "按國家、城市與出行週探索全球目的地和適遊季節",
+        "en": "Explore global destinations and suitable travel seasons by country, city, and travel week"
+      },
+      "source": "https://github.com/wangruofeng/shanhai-youqi",
+      "demo": "https://shanhaiyouqi.wangruofeng007.com/"
+    },
+    {
+      "id": "fm",
+      "icon": "🎵",
+      "category": "creative",
+      "name": {
+        "zh-CN": "Mystery Vinyl",
+        "zh-TW": "Mystery Vinyl",
+        "en": "Mystery Vinyl"
+      },
+      "description": {
+        "zh-CN": "按心情随机播放音乐的交互式黑胶唱机，支持环境音与自定义音源",
+        "zh-TW": "按心情隨機播放音樂的互動式黑膠唱機，支援環境音與自訂音源",
+        "en": "An interactive vinyl turntable with mood-based music, ambient sounds, and custom sources"
+      },
+      "source": "https://github.com/wangruofeng/fm",
+      "demo": "https://fm.wangruofeng007.com/"
     }
   ]
 }
