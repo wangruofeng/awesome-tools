@@ -176,6 +176,7 @@ main { flex: 1; overflow-y: auto; padding: 0 20px 60px; }
   background: var(--panel); border: 1px solid var(--border);
   border-radius: var(--radius); box-shadow: var(--shadow);
   min-width: 0; overflow: hidden; position: relative;
+  display: flex; flex-direction: column;
   transition: transform .12s, border-color .12s, box-shadow .12s;
 }
 .tool-card:hover {
@@ -184,7 +185,7 @@ main { flex: 1; overflow-y: auto; padding: 0 20px 60px; }
 }
 html.dark .tool-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,.5); }
 
-.tool-main { min-height: 96px; padding: 16px 18px; display: flex; gap: 14px; align-items: flex-start; }
+.tool-main { min-height: 96px; padding: 16px 18px; display: flex; flex: 1; gap: 14px; align-items: flex-start; }
 .tool-icon {
   width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; flex: none;
   border: 1px solid var(--border); border-radius: 8px; background: var(--bg);
@@ -213,7 +214,7 @@ html.dark .tool-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,.5); }
 /* 触屏无 hover：星标常显半透明，已收藏保持实色 */
 @media (hover: none) { .fav-star { opacity: .45; } .fav-star.on { opacity: 1; } }
 
-.tool-links { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid var(--border); }
+.tool-links { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid var(--border); flex-shrink: 0; }
 .tool-links.source-only { grid-template-columns: 1fr; }
 .tool-links a { padding: 10px; text-align: center; color: var(--accent); font-weight: 600; text-decoration: none; font-size: 13px; transition: background .12s, color .12s; }
 .tool-links a + a { border-left: 1px solid var(--border); }
