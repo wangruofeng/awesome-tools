@@ -686,6 +686,23 @@
       "source": "https://github.com/wangruofeng/skillctl"
     },
     {
+      "id": "svg-studio",
+      "icon": "🖼️",
+      "category": "creative",
+      "name": {
+        "zh-CN": "映页",
+        "zh-TW": "映頁",
+        "en": "SVG Studio"
+      },
+      "description": {
+        "zh-CN": "SVG 幻灯片工作台，支持导入、排序、全屏演示与自动播放（私有仓库）",
+        "zh-TW": "SVG 幻燈片工作台，支援匯入、排序、全螢幕簡報與自動播放（私人儲存庫）",
+        "en": "SVG slideshow workspace with import, reordering, fullscreen presentation, and autoplay (private repository)"
+      },
+      "source": "https://github.com/wangruofeng/svg-studio",
+      "demo": "https://svg-studio.wangruofeng007.com/"
+    },
+    {
       "id": "vecsy",
       "icon": "🧩",
       "category": "creative",

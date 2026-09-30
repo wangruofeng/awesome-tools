@@ -67,6 +67,7 @@
 | --- | --- | --- | --- |
 | 🎬 Web Animation | Web 動畫技術體系的互動式指南 | [原始碼](https://github.com/wangruofeng/web-animation) | [線上體驗](https://web-animation.wangruofeng007.com/) |
 | 🎞️ Animation Playground | 140+ 個 CSS、SVG 與 Canvas 動畫效果合集 | [原始碼](https://github.com/wangruofeng/animation-playground) | [線上體驗](https://playground.wangruofeng007.com) |
+| 🖼️ 映頁 | SVG 幻燈片工作台，支援匯入、排序、全螢幕簡報與自動播放（私人儲存庫） | [原始碼](https://github.com/wangruofeng/svg-studio) | [線上體驗](https://svg-studio.wangruofeng007.com/) |
 | 🧩 Vecsy | 開源 SVG 編輯器與向量設計工作室 | [原始碼](https://github.com/wangruofeng/vecsy) | [線上體驗](https://vecsy.top/) |
 | 🗜️ ImgCompress | 安全、快速、完全基於瀏覽器的圖像壓縮工具 | [原始碼](https://github.com/wangruofeng/img-compress) | [線上體驗](https://img-compress.wangruofeng007.com/) |
 | 🖼️ MD2Img | Markdown 一鍵生成小紅書系列圖文卡片，自動分頁、九套配色、即時預覽與匯出 | [原始碼](https://github.com/wangruofeng/md2img) | [線上體驗](https://md2img.wangruofeng007.com/) |

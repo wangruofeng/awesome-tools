@@ -67,6 +67,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | --- | --- | --- | --- |
 | 🎬 Web Animation | Interactive guide to the Web animation ecosystem | [Source](https://github.com/wangruofeng/web-animation) | [Live demo](https://web-animation.wangruofeng007.com/) |
 | 🎞️ Animation Playground | Collection of 140+ CSS, SVG, and Canvas animation effects | [Source](https://github.com/wangruofeng/animation-playground) | [Live demo](https://playground.wangruofeng007.com) |
+| 🖼️ SVG Studio | SVG slideshow workspace with import, reordering, fullscreen presentation, and autoplay (private repository) | [Source](https://github.com/wangruofeng/svg-studio) | [Live demo](https://svg-studio.wangruofeng007.com/) |
 | 🧩 Vecsy | Open-source SVG editor and vector design studio | [Source](https://github.com/wangruofeng/vecsy) | [Live demo](https://vecsy.top/) |
 | 🗜️ ImgCompress | Safe, fast, fully browser-based image compression tool | [Source](https://github.com/wangruofeng/img-compress) | [Live demo](https://img-compress.wangruofeng007.com/) |
 | 🖼️ MD2Img | Turn Markdown into ready-to-post Xiaohongshu card images with automatic pagination, themes, live preview, and export | [Source](https://github.com/wangruofeng/md2img) | [Live demo](https://md2img.wangruofeng007.com/) |
