@@ -78,6 +78,7 @@
 
 | 專案名稱 | 專案簡介 | 專案原始碼 | 線上體驗 |
 | --- | --- | --- | --- |
+| ⛵ 問舟 | 可自行設定模型供應商的 AI 聊天應用，支援多協定串流對話、模型切換與本機對話儲存（私人儲存庫） | [原始碼](https://github.com/wangruofeng/asksail) | [線上體驗](https://ask-sail.wangruofeng007.com/) |
 | 🔧 simple-gemini-cli | Google Gemini API 的簡潔命令列工具 | [原始碼](https://github.com/wangruofeng/simple-gemini-cli) | — |
 | 🔗 Feishu to WeChat | 飛書文件轉微信公眾號排版工具 | [原始碼](https://github.com/wangruofeng/feishu2wx) | [線上體驗](https://feishu2wx.wangruofeng007.com/) |
 | 📋 X 正文一鍵複製 | 為 X 貼文操作列加入正文一鍵複製按鈕 | [原始碼](https://github.com/wangruofeng/chrome-copy) | — |

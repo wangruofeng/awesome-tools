@@ -670,6 +670,23 @@
       "source": "https://github.com/wangruofeng/meta-skill"
     },
     {
+      "id": "asksail",
+      "icon": "⛵",
+      "category": "productivity",
+      "name": {
+        "zh-CN": "问舟",
+        "zh-TW": "問舟",
+        "en": "AskSail"
+      },
+      "description": {
+        "zh-CN": "可自行配置模型供应商的 AI 聊天应用，支持多协议流式对话、模型切换与本地会话保存（私有仓库）",
+        "zh-TW": "可自行設定模型供應商的 AI 聊天應用，支援多協定串流對話、模型切換與本機對話儲存（私人儲存庫）",
+        "en": "AI chat app with configurable model providers, multi-protocol streaming, model switching, and local conversation storage (private repository)"
+      },
+      "source": "https://github.com/wangruofeng/asksail",
+      "demo": "https://ask-sail.wangruofeng007.com/"
+    },
+    {
       "id": "skillctl",
       "icon": "🎛️",
       "category": "developer",
