@@ -78,7 +78,7 @@ A categorized collection of open-source projects and online tools I build, with 
 
 | Project | Description | Source | Live demo |
 | --- | --- | --- | --- |
-| ⛵ AskSail | AI chat app with configurable model providers, multi-protocol streaming, model switching, and local conversation storage (private repository) | [Source](https://github.com/wangruofeng/asksail) | [Live demo](https://ask-sail.wangruofeng007.com/) |
+| ⛵ A2Make | A bring-your-own-key, multi-model AI chat and creation workspace with document reading, web search, MCP tools, image generation, and editable PPTX export (private repository) | [Source](https://github.com/wangruofeng/a2make) | [Live demo](https://a2make.com/) |
 | 🔧 simple-gemini-cli | Simple command-line tool for the Google Gemini API | [Source](https://github.com/wangruofeng/simple-gemini-cli) | — |
 | 🔗 Feishu to WeChat | Format Feishu documents for WeChat articles | [Source](https://github.com/wangruofeng/feishu2wx) | [Live demo](https://feishu2wx.wangruofeng007.com/) |
 | 📋 X Post Copy | Add a one-click body-copy button to X post action bars | [Source](https://github.com/wangruofeng/chrome-copy) | — |

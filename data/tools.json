@@ -674,17 +674,17 @@
       "icon": "⛵",
       "category": "productivity",
       "name": {
-        "zh-CN": "问舟",
-        "zh-TW": "問舟",
-        "en": "AskSail"
+        "zh-CN": "问舟 A2Make",
+        "zh-TW": "問舟 A2Make",
+        "en": "A2Make"
       },
       "description": {
-        "zh-CN": "可自行配置模型供应商的 AI 聊天应用，支持多协议流式对话、模型切换与本地会话保存（私有仓库）",
-        "zh-TW": "可自行設定模型供應商的 AI 聊天應用，支援多協定串流對話、模型切換與本機對話儲存（私人儲存庫）",
-        "en": "AI chat app with configurable model providers, multi-protocol streaming, model switching, and local conversation storage (private repository)"
+        "zh-CN": "自带 API Key 的多模型 AI 对话与创作工作台，支持文档阅读、联网搜索、MCP 工具、图片生成与可编辑 PPTX 导出（私有仓库）",
+        "zh-TW": "自帶 API Key 的多模型 AI 對話與創作工作台，支援文件閱讀、聯網搜尋、MCP 工具、圖片生成與可編輯 PPTX 匯出（私人儲存庫）",
+        "en": "A bring-your-own-key, multi-model AI chat and creation workspace with document reading, web search, MCP tools, image generation, and editable PPTX export (private repository)"
       },
-      "source": "https://github.com/wangruofeng/asksail",
-      "demo": "https://ask-sail.wangruofeng007.com/"
+      "source": "https://github.com/wangruofeng/a2make",
+      "demo": "https://a2make.com/"
     },
     {
       "id": "skillctl",

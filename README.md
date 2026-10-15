@@ -78,7 +78,7 @@
 
 | 项目名称 | 项目简介 | 项目源码 | 在线体验 |
 | --- | --- | --- | --- |
-| ⛵ 问舟 | 可自行配置模型供应商的 AI 聊天应用，支持多协议流式对话、模型切换与本地会话保存（私有仓库） | [源码](https://github.com/wangruofeng/asksail) | [在线体验](https://ask-sail.wangruofeng007.com/) |
+| ⛵ 问舟 A2Make | 自带 API Key 的多模型 AI 对话与创作工作台，支持文档阅读、联网搜索、MCP 工具、图片生成与可编辑 PPTX 导出（私有仓库） | [源码](https://github.com/wangruofeng/a2make) | [在线体验](https://a2make.com/) |
 | 🔧 simple-gemini-cli | Google Gemini API 的简洁命令行工具 | [源码](https://github.com/wangruofeng/simple-gemini-cli) | — |
 | 🔗 Feishu to WeChat | 飞书文档转微信公众号排版工具 | [源码](https://github.com/wangruofeng/feishu2wx) | [在线体验](https://feishu2wx.wangruofeng007.com/) |
 | 📋 X 正文一键复制 | 为 X 帖子操作栏添加正文一键复制按钮 | [源码](https://github.com/wangruofeng/chrome-copy) | — |
