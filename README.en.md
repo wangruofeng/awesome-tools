@@ -94,6 +94,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | 📰 NewsNow | Real-time and trending news aggregation platform | [Source](https://github.com/wangruofeng/newsnow) | [Live demo](https://newsnow.wangruofeng007.com/) |
 | 📡 ftp-server | Python FTP server with a Web interface | [Source](https://github.com/wangruofeng/ftp-server) | — |
 | 🌐 easy-ftp | FTP server with a classic Web directory index | [Source](https://github.com/wangruofeng/easy-ftp) | — |
+| 🚀 speed.test | Browser-based download, upload, latency, and jitter tests with region and connection mode selection | — | [Live demo](https://speed.wangruofeng007.com/) |
 
 ## Maintenance
 

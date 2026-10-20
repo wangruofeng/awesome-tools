@@ -89,7 +89,8 @@
     "text-snap": "https://github.githubassets.com/favicons/favicon.svg",
     "json-viewer": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='%232563eb'/><stop offset='1' stop-color='%237c3aed'/></linearGradient></defs><rect width='32' height='32' rx='7' fill='url(%23g)'/><text x='16' y='16' text-anchor='middle' dominant-baseline='central' font-family='-apple-system,Segoe UI,Arial,sans-serif' font-size='17' font-weight='700' fill='%23ffffff'>{ }</text></svg>",
     "shanhai-youqi": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗺️</text></svg>",
-    "fm": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎵</text></svg>"
+    "fm": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎵</text></svg>",
+    "speed": "https://speed.wangruofeng007.com/assets/favicon.svg"
   },
   "tools": [
     {
@@ -1032,6 +1033,22 @@
       },
       "source": "https://github.com/wangruofeng/fm",
       "demo": "https://fm.wangruofeng007.com/"
+    },
+    {
+      "id": "speed",
+      "icon": "🚀",
+      "category": "services",
+      "name": {
+        "zh-CN": "speed.test",
+        "zh-TW": "speed.test",
+        "en": "speed.test"
+      },
+      "description": {
+        "zh-CN": "浏览器网络测速，支持下载、上传、延迟、抖动及地区和连接模式切换",
+        "zh-TW": "瀏覽器網路測速，支援下載、上傳、延遲、抖動及地區和連線模式切換",
+        "en": "Browser-based download, upload, latency, and jitter tests with region and connection mode selection"
+      },
+      "demo": "https://speed.wangruofeng007.com/"
     }
   ]
 }

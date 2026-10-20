@@ -94,6 +94,7 @@
 | 📰 NewsNow | 即時與熱門新聞聚合閱讀平台 | [原始碼](https://github.com/wangruofeng/newsnow) | [線上體驗](https://newsnow.wangruofeng007.com/) |
 | 📡 ftp-server | 帶 Web 介面的 Python FTP 服務 | [原始碼](https://github.com/wangruofeng/ftp-server) | — |
 | 🌐 easy-ftp | 經典目錄索引風格的 FTP 服務 | [原始碼](https://github.com/wangruofeng/easy-ftp) | — |
+| 🚀 speed.test | 瀏覽器網路測速，支援下載、上傳、延遲、抖動及地區和連線模式切換 | — | [線上體驗](https://speed.wangruofeng007.com/) |
 
 ## 维护方式
 
