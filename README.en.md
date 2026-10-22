@@ -73,6 +73,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | 🖼️ MD2Img | Turn Markdown into ready-to-post Xiaohongshu card images with automatic pagination, themes, live preview, and export | [Source](https://github.com/wangruofeng/md2img) | [Live demo](https://md2img.wangruofeng007.com/) |
 | ✨ AI Image Prompt Library | Curated AI image style prompts with sample images, search, filters, and one-click copy | [Source](https://github.com/wangruofeng/prompts-collect) | [Live demo](https://gpt-image.wangruofeng007.com/) |
 | 🎵 Mystery Vinyl | An interactive vinyl turntable with mood-based music, ambient sounds, and custom sources | [Source](https://github.com/wangruofeng/fm) | [Live demo](https://fm.wangruofeng007.com/) |
+| 🎨 Chinese Traditional Colors | Chinese traditional color cards and palette tools with color search, palette generation, scene previews, and UI and terminal theme export | [Source](https://github.com/wangruofeng/colors) | [Live demo](https://colors.wangruofeng007.com/) |
 
 ## AI & Productivity
 

@@ -73,6 +73,7 @@
 | 🖼️ MD2Img | Markdown 一鍵生成小紅書系列圖文卡片，自動分頁、九套配色、即時預覽與匯出 | [原始碼](https://github.com/wangruofeng/md2img) | [線上體驗](https://md2img.wangruofeng007.com/) |
 | ✨ AI 生圖提示詞庫 | 精選 AI 生圖風格提示詞與樣張，支援搜尋、篩選與一鍵複製 | [原始碼](https://github.com/wangruofeng/prompts-collect) | [線上體驗](https://gpt-image.wangruofeng007.com/) |
 | 🎵 Mystery Vinyl | 按心情隨機播放音樂的互動式黑膠唱機，支援環境音與自訂音源 | [原始碼](https://github.com/wangruofeng/fm) | [線上體驗](https://fm.wangruofeng007.com/) |
+| 🎨 中國傳統配色 | 中華傳統色色卡與配色工具，支援色彩搜尋、色票生成、場景預覽及 UI 與終端主題匯出 | [原始碼](https://github.com/wangruofeng/colors) | [線上體驗](https://colors.wangruofeng007.com/) |
 
 ## AI 與效率
 

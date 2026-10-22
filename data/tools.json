@@ -1049,6 +1049,23 @@
         "en": "Browser-based download, upload, latency, and jitter tests with region and connection mode selection"
       },
       "demo": "https://speed.wangruofeng007.com/"
+    },
+    {
+      "id": "colors",
+      "icon": "🎨",
+      "category": "creative",
+      "name": {
+        "zh-CN": "中国传统配色",
+        "zh-TW": "中國傳統配色",
+        "en": "Chinese Traditional Colors"
+      },
+      "description": {
+        "zh-CN": "中华传统色色卡与配色工具，支持颜色检索、色板生成、场景预览及 UI 与终端主题导出",
+        "zh-TW": "中華傳統色色卡與配色工具，支援色彩搜尋、色票生成、場景預覽及 UI 與終端主題匯出",
+        "en": "Chinese traditional color cards and palette tools with color search, palette generation, scene previews, and UI and terminal theme export"
+      },
+      "source": "https://github.com/wangruofeng/colors",
+      "demo": "https://colors.wangruofeng007.com/"
     }
   ]
 }
