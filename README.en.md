@@ -30,6 +30,8 @@ A categorized collection of open-source projects and online tools I build, with 
 | 🧊 Learn Three.js | Progressive interactive Three.js learning demos | [Source](https://github.com/wangruofeng/learn-threejs) | [Live demo](https://blog.wangruofeng007.com/learn-threejs/) |
 | 🧩 Name That UI | Bilingual UI visual dictionary and prompt assistant | [Source](https://github.com/wangruofeng/learnui) | [Live demo](https://learnui.wangruofeng007.com/) |
 | ▶️ youtube-digest | Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes | [Source](https://github.com/wangruofeng/youtube-digest) | — |
+| 📺 HackerTube | A bilingual site for videos recommended by the HN community, with search, similar-video recommendations, and watch later. (Private repository) | [Source](https://github.com/wangruofeng/hackertube) | [Live demo](https://hackertube.wangruofeng007.com/) |
+| 📚 Hacker Books | A bilingual bookshelf of books mentioned by HN readers, with rankings, search, reading paths, and personal booklists. (Private repository) | [Source](https://github.com/wangruofeng/hackerbooks) | [Live demo](https://hackerbooks.wangruofeng007.com/) |
 
 ## Development
 

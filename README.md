@@ -30,6 +30,8 @@
 | 🧊 Three.js 学习 | 循序渐进的 Three.js 互动学习 demo 合集 | [源码](https://github.com/wangruofeng/learn-threejs) | [在线体验](https://blog.wangruofeng007.com/learn-threejs/) |
 | 🧩 Name That UI | 中英双语 UI 视觉词典与提示词助手 | [源码](https://github.com/wangruofeng/learnui) | [在线体验](https://learnui.wangruofeng007.com/) |
 | ▶️ youtube-digest | 将 YouTube 视频转化为深度学习资源，支持字幕、双语翻译、AI 概览、讲解与笔记 | [源码](https://github.com/wangruofeng/youtube-digest) | — |
+| 📺 HackerTube | HN 社区推荐视频的双语浏览站，支持搜索、相似推荐与稍后观看。（私有仓库） | [源码](https://github.com/wangruofeng/hackertube) | [在线体验](https://hackertube.wangruofeng007.com/) |
+| 📚 黑客书架 | HN 读者提及书籍的双语书架，支持榜单、检索、阅读路径与个人书单。（私有仓库） | [源码](https://github.com/wangruofeng/hackerbooks) | [在线体验](https://hackerbooks.wangruofeng007.com/) |
 
 ## 开发工具
 

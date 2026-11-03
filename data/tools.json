@@ -1066,6 +1066,40 @@
       },
       "source": "https://github.com/wangruofeng/colors",
       "demo": "https://colors.wangruofeng007.com/"
+    },
+    {
+      "id": "hackertube",
+      "icon": "📺",
+      "category": "learning",
+      "name": {
+        "zh-CN": "HackerTube",
+        "zh-TW": "HackerTube",
+        "en": "HackerTube"
+      },
+      "description": {
+        "zh-CN": "HN 社区推荐视频的双语浏览站，支持搜索、相似推荐与稍后观看。（私有仓库）",
+        "zh-TW": "HN 社群推薦影片的雙語瀏覽站，支援搜尋、相似推薦與稍後觀看。（私人儲存庫）",
+        "en": "A bilingual site for videos recommended by the HN community, with search, similar-video recommendations, and watch later. (Private repository)"
+      },
+      "source": "https://github.com/wangruofeng/hackertube",
+      "demo": "https://hackertube.wangruofeng007.com/"
+    },
+    {
+      "id": "hackerbooks",
+      "icon": "📚",
+      "category": "learning",
+      "name": {
+        "zh-CN": "黑客书架",
+        "zh-TW": "黑客書架",
+        "en": "Hacker Books"
+      },
+      "description": {
+        "zh-CN": "HN 读者提及书籍的双语书架，支持榜单、检索、阅读路径与个人书单。（私有仓库）",
+        "zh-TW": "HN 讀者提及書籍的雙語書架，支援榜單、搜尋、閱讀路徑與個人書單。（私人儲存庫）",
+        "en": "A bilingual bookshelf of books mentioned by HN readers, with rankings, search, reading paths, and personal booklists. (Private repository)"
+      },
+      "source": "https://github.com/wangruofeng/hackerbooks",
+      "demo": "https://hackerbooks.wangruofeng007.com/"
     }
   ]
 }
