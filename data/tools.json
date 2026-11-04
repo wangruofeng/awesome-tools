@@ -1035,6 +1035,22 @@
       "demo": "https://fm.wangruofeng007.com/"
     },
     {
+      "id": "wifi-drop",
+      "icon": "📡",
+      "category": "services",
+      "name": {
+        "zh-CN": "WiFi Drop",
+        "zh-TW": "WiFi Drop",
+        "en": "WiFi Drop"
+      },
+      "description": {
+        "zh-CN": "通过浏览器在同一网络的设备之间发送文件",
+        "zh-TW": "透過瀏覽器在同一網路的裝置之間傳送檔案",
+        "en": "Send files between devices on the same network from your browser"
+      },
+      "demo": "https://wifi-drop.wangruofeng007.com/"
+    },
+    {
       "id": "speed",
       "icon": "🚀",
       "category": "services",
