@@ -738,6 +738,40 @@
       "demo": "https://vecsy.top/"
     },
     {
+      "id": "ui-lab",
+      "icon": "🧪",
+      "category": "creative",
+      "name": {
+        "zh-CN": "UI Lab",
+        "zh-TW": "UI Lab",
+        "en": "UI Lab"
+      },
+      "description": {
+        "zh-CN": "交互式 UI 设计案例库，提供改版前后演示与可复制的提示词",
+        "zh-TW": "互動式 UI 設計案例庫，提供改版前後示範與可複製的提示詞",
+        "en": "Interactive UI design case library with before-and-after demos and copyable prompts"
+      },
+      "source": "https://github.com/wangruofeng/ui-lab",
+      "demo": "https://ui-lab.wangruofeng007.com/"
+    },
+    {
+      "id": "ui-skills",
+      "icon": "🛠️",
+      "category": "creative",
+      "name": {
+        "zh-CN": "UI Skills",
+        "zh-TW": "UI Skills",
+        "en": "UI Skills"
+      },
+      "description": {
+        "zh-CN": "ibelick 的 UI Skills 双语镜像，收录设计工程技能、指南与资源",
+        "zh-TW": "ibelick 的 UI Skills 雙語鏡像，收錄設計工程技能、指南與資源",
+        "en": "Bilingual mirror of ibelick’s UI Skills, with skills, guides, and resources for design engineers"
+      },
+      "source": "https://github.com/wangruofeng/ui-skills",
+      "demo": "https://ui-skills.wangruofeng007.com/"
+    },
+    {
       "id": "newsnow",
       "icon": "📰",
       "category": "services",
