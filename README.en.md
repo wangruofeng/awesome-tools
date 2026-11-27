@@ -16,6 +16,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | 😀 Emoji Picker | Search, inspect, and copy emoji in multiple languages | [Source](https://github.com/wangruofeng/emoji-picker) | [Live demo](https://emoji-picker.wangruofeng007.com/) |
 | ✦ Unicode Symbol Picker | Search, inspect, and copy Unicode symbols | [Source](https://github.com/wangruofeng/unicode-picker) | [Live demo](https://blog.wangruofeng007.com/unicode-picker/) |
 | 🌍 Country Info | Look up country and region details in multiple languages | [Source](https://github.com/wangruofeng/country-info) | [Live demo](https://blog.wangruofeng007.com/country-info/) |
+| 📅 Calendar Studio | Printable calendar generator with customizable dates and languages, plus yearly, monthly, weekday, and cut-and-stack layouts | [Source](https://github.com/wangruofeng/calendars) | [Live demo](https://calendars.wangruofeng007.com/) |
 | 📅 lunar-birthday-reminder | Lunar birthday manager and reminder app with multiple implementations | [Source](https://github.com/wangruofeng/lunar-birthday-reminder) | [Live demo](https://blog.wangruofeng007.com/lunar-birthday-reminder/) |
 | 🗺️ Shanhai Youqi | Explore global destinations and suitable travel seasons by country, city, and travel week | [Source](https://github.com/wangruofeng/shanhai-youqi) | [Live demo](https://shanhaiyouqi.wangruofeng007.com/) |
 
@@ -71,6 +72,7 @@ A categorized collection of open-source projects and online tools I build, with 
 | 🎞️ Animation Playground | Collection of 140+ CSS, SVG, and Canvas animation effects | [Source](https://github.com/wangruofeng/animation-playground) | [Live demo](https://playground.wangruofeng007.com) |
 | 🖼️ SVG Studio | SVG slideshow workspace with import, reordering, fullscreen presentation, and autoplay (private repository) | [Source](https://github.com/wangruofeng/svg-studio) | [Live demo](https://svg-studio.wangruofeng007.com/) |
 | 🧩 Vecsy | Open-source SVG editor and vector design studio | [Source](https://github.com/wangruofeng/vecsy) | [Live demo](https://vecsy.top/) |
+| 📐 Graph Paper Studio | Offline-ready printable paper generator with customizable grids, dot patterns, and PDF, SVG, or PNG export | [Source](https://github.com/wangruofeng/graph-paper) | [Live demo](https://graphpaper.wangruofeng007.com/) |
 | 🧪 UI Lab | Interactive UI design case library with before-and-after demos and copyable prompts | [Source](https://github.com/wangruofeng/ui-lab) | [Live demo](https://ui-lab.wangruofeng007.com/) |
 | 🛠️ UI Skills | Bilingual mirror of ibelick’s UI Skills, with skills, guides, and resources for design engineers | [Source](https://github.com/wangruofeng/ui-skills) | [Live demo](https://ui-skills.wangruofeng007.com/) |
 | 🗜️ ImgCompress | Safe, fast, fully browser-based image compression tool | [Source](https://github.com/wangruofeng/img-compress) | [Live demo](https://img-compress.wangruofeng007.com/) |

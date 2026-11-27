@@ -16,6 +16,7 @@
 | 😀 Emoji Picker | 多语言 Emoji 搜索、详情查看与复制 | [源码](https://github.com/wangruofeng/emoji-picker) | [在线体验](https://emoji-picker.wangruofeng007.com/) |
 | ✦ Unicode 符号选择器 | Unicode 符号搜索、编码查看与复制 | [源码](https://github.com/wangruofeng/unicode-picker) | [在线体验](https://blog.wangruofeng007.com/unicode-picker/) |
 | 🌍 Country Info | 多语言国家与地区信息速查 | [源码](https://github.com/wangruofeng/country-info) | [在线体验](https://blog.wangruofeng007.com/country-info/) |
+| 📅 日历工坊 | 可自定义日期与语言的打印日历生成器，提供年历、月历、工作日历和每日撕页版式 | [源码](https://github.com/wangruofeng/calendars) | [在线体验](https://calendars.wangruofeng007.com/) |
 | 📅 lunar-birthday-reminder | 农历生日管理与提醒应用，支持多套实现 | [源码](https://github.com/wangruofeng/lunar-birthday-reminder) | [在线体验](https://blog.wangruofeng007.com/lunar-birthday-reminder/) |
 | 🗺️ 山海有期 | 按国家、城市与出行周探索全球目的地和适游季节 | [源码](https://github.com/wangruofeng/shanhai-youqi) | [在线体验](https://shanhaiyouqi.wangruofeng007.com/) |
 
@@ -71,6 +72,7 @@
 | 🎞️ Animation Playground | 140+ 个 CSS、SVG 和 Canvas 动画效果合集 | [源码](https://github.com/wangruofeng/animation-playground) | [在线体验](https://playground.wangruofeng007.com) |
 | 🖼️ 映页 | SVG 幻灯片工作台，支持导入、排序、全屏演示与自动播放（私有仓库） | [源码](https://github.com/wangruofeng/svg-studio) | [在线体验](https://svg-studio.wangruofeng007.com/) |
 | 🧩 Vecsy | 开源 SVG 编辑器与矢量设计工作室 | [源码](https://github.com/wangruofeng/vecsy) | [在线体验](https://vecsy.top/) |
+| 📐 绘纸工坊 | 可离线使用的打印纸张生成器，支持自定义方格、点阵等纸型并导出 PDF、SVG 或 PNG | [源码](https://github.com/wangruofeng/graph-paper) | [在线体验](https://graphpaper.wangruofeng007.com/) |
 | 🧪 UI Lab | 交互式 UI 设计案例库，提供改版前后演示与可复制的提示词 | [源码](https://github.com/wangruofeng/ui-lab) | [在线体验](https://ui-lab.wangruofeng007.com/) |
 | 🛠️ UI Skills | ibelick 的 UI Skills 双语镜像，收录设计工程技能、指南与资源 | [源码](https://github.com/wangruofeng/ui-skills) | [在线体验](https://ui-skills.wangruofeng007.com/) |
 | 🗜️ ImgCompress | 安全、快速、完全基于浏览器的图像压缩工具 | [源码](https://github.com/wangruofeng/img-compress) | [在线体验](https://img-compress.wangruofeng007.com/) |

@@ -738,6 +738,40 @@
       "demo": "https://vecsy.top/"
     },
     {
+      "id": "graph-paper",
+      "icon": "📐",
+      "category": "creative",
+      "name": {
+        "zh-CN": "绘纸工坊",
+        "zh-TW": "繪紙工坊",
+        "en": "Graph Paper Studio"
+      },
+      "description": {
+        "zh-CN": "可离线使用的打印纸张生成器，支持自定义方格、点阵等纸型并导出 PDF、SVG 或 PNG",
+        "zh-TW": "可離線使用的列印紙張產生器，支援自訂方格、點陣等紙型並匯出 PDF、SVG 或 PNG",
+        "en": "Offline-ready printable paper generator with customizable grids, dot patterns, and PDF, SVG, or PNG export"
+      },
+      "source": "https://github.com/wangruofeng/graph-paper",
+      "demo": "https://graphpaper.wangruofeng007.com/"
+    },
+    {
+      "id": "calendars",
+      "icon": "📅",
+      "category": "daily",
+      "name": {
+        "zh-CN": "日历工坊",
+        "zh-TW": "日曆工坊",
+        "en": "Calendar Studio"
+      },
+      "description": {
+        "zh-CN": "可自定义日期与语言的打印日历生成器，提供年历、月历、工作日历和每日撕页版式",
+        "zh-TW": "可自訂日期與語言的列印日曆產生器，提供年曆、月曆、工作日曆和每日撕頁版型",
+        "en": "Printable calendar generator with customizable dates and languages, plus yearly, monthly, weekday, and cut-and-stack layouts"
+      },
+      "source": "https://github.com/wangruofeng/calendars",
+      "demo": "https://calendars.wangruofeng007.com/"
+    },
+    {
       "id": "ui-lab",
       "icon": "🧪",
       "category": "creative",
